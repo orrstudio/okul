@@ -8,7 +8,6 @@
      - 1.1.6. Allah istədiyi hər şeyi "OL" əmriylə yoxdan var edəndir (yaradandır)! 
      - 1.1.7. Allah heçnəyə ehtiyacı olmayandır! 
      - 1.1.8. Allah sonsuz sürrətin sahibidir!
-     - 1.1.9. EV TAPŞIRIĞI: Allahı başqa nə cür bilirsiz?
    - 1.2. Allah nəvaxt yaranıb və kim Onu yaradıb? 
      - 1.2.1. Allahı heç kim yaratmayıb!
      - 1.2.2. Allah heç vaxt yaranmayıb!
@@ -40,7 +39,6 @@
      - 1.3.21. Od
      - 1.3.22. Külək
      - 1.3.23. Qar
-     - 1.3.24. EV TAPŞIRIĞI: Allahın yaratdıqlarından 5 dənə (Yazdığımız siyahıda olmayan) əlavə yazın.
    - 1.4. Allah yaratdıqları arasında ən çox kimi sevir? - İnsanı
    - 1.5. Allahın Zatı var.
    - 1.6. Allahın Zatı Nurdandır.
@@ -98,8 +96,19 @@
    - 3.4 Nəfs enerji bədəndi.
    - 3.5 Nəfsin qəlbində 19 afət var.
      - 3.5.1 Kin və Nifrət
-     - 3.5.2 Küfür
+     - 3.5.2 Küfür (imansızlıq, iman etməmək)
      - 3.5.3 Yalan
+     - 3.5.4 Zülüm (özümüzə və başkalarına)
+     - 3.5.5 Haset (Paxıllıq)
+     - 3.5.6 Cəhalət (Mənəvi elimsizlik)
+     - 3.5.7 Cimrilik (Xəsislik)
+     - 3.5.8 Öfkə və Gayz (Hisrənmək)
+     - 3.5.9 İsyan (Əmrə qarşı çıxmaq)
+     - 3.5.10 Səbirsizlik 
+     - 3.5.11 Kibir və Qürur (Üstünlük və Lovğalıq)
+     - 3.5.12 Hırs və Şəhvət (Tamah)
+     - 3.5.13 Nankörluq
+     - 3.5.14 Dedikodu (Başkalarının dalınca danışmaq)
    - Fizik vucud nədi - Ət və sümükdən ibarət olan (Salsalin adlı palçıqdan yaranan) vücudur.
    - İradə nədi - Allahın iradəsindən (gücündən) bizə verilən cüzi iradə (güc).
    - Bu güc bütün insanlarda var? - Var ama nə qədər ki Allahın yoluna girməyiblər, Mürşidə tabe olmayıblar, bu güc sönük vəzyətdədi. İşləmir. Yox kimidi. Allah yalnız Ona yönələnə verir bu gücü ki insan nəfsinə o gücnən təsir edə bilsin. Pis işləri görməmək üçün və yaxşı işləri görmək üçün. 
