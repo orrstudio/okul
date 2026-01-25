@@ -109,6 +109,11 @@
      - 3.5.12 Hırs və Şəhvət (Tamah)
      - 3.5.13 Nankörluq
      - 3.5.14 Dedikodu (Başkalarının dalınca danışmaq)
+     - 3.5.15 Zənn (Bilmədiyimizi danışmaq)
+     - 3.5.16 İptilalar (Pis vərdişlər)
+     - 3.5.17 Vəfasızlıq (Sözün üstündə durmamaq)
+     - 3.5.18 Mürailik (İkiüzlülük)
+     - 3.5.19 Fitnə və Fəsad (Ara qarışdırmaq)
    - Fizik vucud nədi - Ət və sümükdən ibarət olan (Salsalin adlı palçıqdan yaranan) vücudur.
    - İradə nədi - Allahın iradəsindən (gücündən) bizə verilən cüzi iradə (güc).
    - Bu güc bütün insanlarda var? - Var ama nə qədər ki Allahın yoluna girməyiblər, Mürşidə tabe olmayıblar, bu güc sönük vəzyətdədi. İşləmir. Yox kimidi. Allah yalnız Ona yönələnə verir bu gücü ki insan nəfsinə o gücnən təsir edə bilsin. Pis işləri görməmək üçün və yaxşı işləri görmək üçün. 
