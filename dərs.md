@@ -100,7 +100,7 @@
      - 3.5.3 Yalan
      - 3.5.4 Zülüm (özümüzə və başkalarına)
      - 3.5.5 Haset (Paxıllıq)
-     - 3.5.6 Cəhalət (Mənəvi elimsizlik)
+     - 3.5.6 Cəhalət verib(Mənəvi elimsizlik)
      - 3.5.7 Cimrilik (Xəsislik)
      - 3.5.8 Öfkə və Gayz (Hisrənmək)
      - 3.5.9 İsyan (Əmrə qarşı çıxmaq)
@@ -114,8 +114,22 @@
      - 3.5.17 Vəfasızlıq (Sözün üstündə durmamaq)
      - 3.5.18 Mürailik (İkiüzlülük)
      - 3.5.19 Fitnə və Fəsad (Ara qarışdırmaq)
-   - Fizik vucud nədi - Ət və sümükdən ibarət olan (Salsalin adlı palçıqdan yaranan) vücudur.
-   - İradə nədi - Allahın iradəsindən (gücündən) bizə verilən cüzi iradə (güc).
+   - 3.6 Fizik vücud ət və sümükdən ibarətdi. (Salsalin adlı palçıqdan yaradılıb).
+     - 3.6.1 Daxili orqanlar.
+       - 3.6.1.1 Ürək (Qan pompalayır, Orqanları gidalandırır)
+       - 3.6.1.2 Beyin (Orqanlarımızı, yaddaşımızı və hərəkətlərimizi idarə edir)
+       - 3.6.1.3 Ciyərlər (Qan təmizləyir və oksigen verir)
+       - 3.6.1.4 Böyrəklər (Qandan ziyanlı şeyləri çıxarır)
+       - 3.6.1.5 Mədə və bağırsaqlar (Qidanı həzm edir, artığını çıxarır)
+       - 3.6.1.6 Gözlər və Qulaqlar (Görmək və eşitmək)
+     - 3.6.2 Digər orqanlar.
+       - 3.6.2.1 Baş
+       - 3.6.2.2 Əllər, qollar, ayaqlar.
+   - 3.7 Allah öz iradəsindən insana cüzi iradə verib.
+     - 3.7.1 Cüzi iradə mənəvi gücdür. (Nəfsin afətlərinə qarşı çıxan güc. Allahın əmirlərini yerinə yetirmək üçün güc)
+     - 3.7.2 Cüzi iradə, insan Allaha qovuşmağı dilədikdən sonra işə düşür.
+     - 3.7.3 Cüzi iradədən istifadə etmək üçün Mürşidə tabi olamq lazımdır.
+     
    - Bu güc bütün insanlarda var? - Var ama nə qədər ki Allahın yoluna girməyiblər, Mürşidə tabe olmayıblar, bu güc sönük vəzyətdədi. İşləmir. Yox kimidi. Allah yalnız Ona yönələnə verir bu gücü ki insan nəfsinə o gücnən təsir edə bilsin. Pis işləri görməmək üçün və yaxşı işləri görmək üçün. 
    - Ağıl nədir? - Ağıl Allahın bütün insanlar üçün yaratdığı məxluqdur.
    - İnsanın ağlı başındadı? - YOX. Ağıl insanın başından biraz yuxarda yerləşir.
