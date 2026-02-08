@@ -141,8 +141,9 @@
    - 3.10 İnsan sosyal varlıqdır (Başqa insanlara möhtac).
    - 3.11 Nəfsinin qulluğundan qurtrmaq üçün Allaha qovuşmağı diləmək lazımdır.
 
-   - 4. DUA
-     - 4.1 Allaha qul olmaq üçün dua: "Allahım, mənimdə ruhumu sənə qovuşdur". 
+- 4. DUA
+   - 4.1 Allaha qul olmaq üçün dua: "Allahım, mənimdə ruhumu sənə qovuşdur". 
+   
    - İnsan Allaha nə söz verib? - İnsan qalubəla günü Allaha 4 təslimlə təslim olmağı söz verib.
      - 1-ci təslim - ruhun təslimi. Ruhumuzun həyatda ikən Allaha qovuşmağını Allahdan istəyəcəyini söz verib.
      - Biz ruhumuzu necə təslim edəcəyik Allaha? 
