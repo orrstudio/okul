@@ -129,18 +129,20 @@
      - 3.7.1 Cüzi iradə mənəvi gücdür. (Nəfsin afətlərinə qarşı çıxan güc. Allahın əmirlərini yerinə yetirmək üçün güc)
      - 3.7.2 Cüzi iradə, insan Allaha qovuşmağı dilədikdən sonra işə düşür.
      - 3.7.3 Cüzi iradədən istifadə etmək üçün Mürşidə tabi olamq lazımdır.
-     
-   - Bu güc bütün insanlarda var? - Var ama nə qədər ki Allahın yoluna girməyiblər, Mürşidə tabe olmayıblar, bu güc sönük vəzyətdədi. İşləmir. Yox kimidi. Allah yalnız Ona yönələnə verir bu gücü ki insan nəfsinə o gücnən təsir edə bilsin. Pis işləri görməmək üçün və yaxşı işləri görmək üçün. 
-   - Ağıl nədir? - Ağıl Allahın bütün insanlar üçün yaratdığı məxluqdur.
-   - İnsanın ağlı başındadı? - YOX. Ağıl insanın başından biraz yuxarda yerləşir.
-   - İnsanın başındaki beyin nə üçündür? - İnsanın vücudunu idarə etmək üçündür.
-   - Beyni hərəkətə gətirən nədir? - Ağıl beynə əmr edərək vücudu idarə edir.
-   - Ağıla nə etmək lazım olanı kim deyir? - Nəfs istəklərinə görə ağıla əmr edir.
-   - Nəfsi kim idarə edir? - Nəfsin istəklərini idarə edən afətləridir. 
-   - İnsan niyə nəfsin istəkləri ilə yaşayır? - Çünkü Allah bütün insanları nəfslərinə qul kimi yaradıb.
-   - İnsan nəfsinin qulluğundan qurtara bilər? - Bəli. Allah insanı nəfsinə qul kimi yaratsada, ona ağıl və iradə verib ki o bu ağıl və iradəsindən istifadə edərək nəfsinə qul olmaqdan qurtara bilsin.
-   - İnsan öz nəfsinin qulluğundan necə qurtara bilər? - Allahdan, Allaha qul olmağı istəməklə. Allaha qovuşmağı diləməklə. Bu verdiyi sözlərin birincisidi.
-   - Necə istəmək lazımdı? - Dua edərək: Allahım, mənimdə ruhumu sənə qovuşdur. Mənidə sənə dost olan qullarından elə. Qurtar məni nəfsimin qulluğundan və sənə qul olanlardan elə.
+   - 3.8 Ağıl Allahın bütün kainatı və insanları idarə etmək üçün yaratdığı məxluqdur.
+     - 3.8.1 insanın ağlı başından biraz yuxarda yerləşir.
+     - 3.8.2 Ağıl insanın beynini kullanaraq vücudu idarə edir. 
+     - 3.8.3 Ağıl beyinə əmr edərək vücudu idarə edir.
+     - 3.8.4 Nəfs istəklərinə görə ağıla əmr edir.
+     - 3.8.5 Nəfsi idarə edən afətləridir. 
+     - 3.8.6 Allah bütün insanları öz nəfslərinə qul yaradıb.
+     - 3.8.7 Allah insanı möhtac (ehtiyacı olan) və aciz (çarəsiz) yaradıb
+   - 3.9 İnsan maadi və mənəvi şeylər üçün Allaha möhtacdı.
+   - 3.10 İnsan sosyal varlıqdır (Başqa insanlara möhtac).
+   - 3.11 Nəfsinin qulluğundan qurtrmaq üçün Allaha qovuşmağı diləmək lazımdır.
+
+   - 4. DUA
+     - 4.1 Allaha qul olmaq üçün dua: "Allahım, mənimdə ruhumu sənə qovuşdur". 
    - İnsan Allaha nə söz verib? - İnsan qalubəla günü Allaha 4 təslimlə təslim olmağı söz verib.
      - 1-ci təslim - ruhun təslimi. Ruhumuzun həyatda ikən Allaha qovuşmağını Allahdan istəyəcəyini söz verib.
      - Biz ruhumuzu necə təslim edəcəyik Allaha? 
