@@ -1,200 +1,146 @@
-1. Allah
-   - 1.1. Allah kimdir:
-     - 1.1.1. Allah SEVƏNDİR!
-     - 1.1.2. Allah hər şeyə qadir olandır!
-     - 1.1.3. Allah duaları qəbul edəndir!
-     - 1.1.4. Allah var olandır!
-     - 1.1.5. Allahdan başqa hər şey yoxdan yaradılandır!
-     - 1.1.6. Allah istədiyi hər şeyi "OL" əmriylə yoxdan var edəndir (yaradandır)! 
-     - 1.1.7. Allah heçnəyə ehtiyacı olmayandır! 
-     - 1.1.8. Allah sonsuz sürrətin sahibidir!
-   - 1.2. Allah nəvaxt yaranıb və kim Onu yaradıb? 
-     - 1.2.1. Allahı heç kim yaratmayıb!
-     - 1.2.2. Allah heç vaxt yaranmayıb!
-     - 1.2.3. Allah hər zaman var olandır!
-     - 1.2.4. Allah zamanı yaradandır! 
-     - 1.2.5. Allahın zamana ehtiyacı olmayandır! 
-     - 1.2.6. Zaman olmayanda Allah var olandır!
-   - 1.3. Allahın yaratdıqları nələrdir?
-     - 1.3.1. Heyvanlar
-     - 1.3.2. Bitkilər
-     - 1.3.3. Cənnət
-     - 1.3.4. Cəhənnəm
-     - 1.3.5. Cinlər
-     - 1.3.6. İnsan
-     - 1.3.7. Kainat
-     - 1.3.8. Planetlər
-     - 1.3.9. Zaman
-     - 1.3.10. Sürrət
-     - 1.3.11. Mələk
-     - 1.3.12. Şeytanlar
-     - 1.3.13. Ağaclar
-     - 1.3.14. Çiçəklər
-     - 1.3.15. Aləmlər (6 aləm)
-     - 1.3.16. Hava
-     - 1.3.17. Nəfsi
-     - 1.3.18. Dağlar
-     - 1.3.19. Okeanlar
-     - 1.3.20. Su
-     - 1.3.21. Od
-     - 1.3.22. Külək
-     - 1.3.23. Qar
-   - 1.4. Allah yaratdıqları arasında ən çox kimi sevir? - İnsanı
-   - 1.5. Allahın Zatı var.
-   - 1.6. Allahın Zatı Nurdandır.
-   - 1.7. Allah Zatından bizə ruh üfürüb.
-   - 1.8. Allahın nəfsi Yoxdur.
-   - 1.9. Allahın afətləri Yoxdur.
-   - 1.10. Allahın iradəsi Var. 
-   - 1.11. Allah öz iradəsindən insanlara və cinlərə cüzi iradə verib.
-   - 1.12. Allahın məkana ehtiyacı yoxdur.
-   - 1.13. İnsanlara görünmək üçün Allah ƏRŞƏ çəkilib.
-   - 1.14. Allah yemir, içmir. 
-   - 1.15. Allah yeməyi və içməyi insanlar üçün yaradıb.
-   - 1.16. Allah insanı və cinləri nəfs səbəbi ilə ən çox sevir.
-   - 1.17. İnsanları isə ruhundan üfürdüyü üçün cinlərdəndə çox sevir.
-   - 1.18. Allah yalnız ona dua edənlərin duasını qəbul edər.
+# 1. ALLAH
+## Allah SEVƏNDİR!
+## Allah hər şeyə qadir olandır!
+## Allah duaları qəbul edəndir! (Allah yalnız ona dua edənlərin duasını qəbul edər.)
+## Allah heçnəyə ehtiyacı olmayandır! 
+## Allah sonsuz sürrətin sahibidir!
+## Allah hər zaman var olandır! (Zaman olmayanda Allah var olandır.)
+## Allah istədiyi hər şeyi "OL" əmriylə yoxdan yaradandır! 
+- Kainat
+- Zaman
+- Sürrət
+- Aləmlər
+- Cənnətlər
+- Mələklər
+- Cəhənnəmlər
+- Şeytanlar
+- Cinlər
+- Planetlər
+- İnsanlar
+- Ruhlar
+- Nəfslər
+- Heyvanlar
+- Bitkilər
+- Dağlar
+- Su
+- Okeanlar
+- Od
+## Allah yaratdıqları arasında ən çox İnsanı sevəndir!
+## Allah insanı və cinləri nəfs səbəbi ilə ən çox sevəndir!
+## İnsanları isə ruhundan üfürdüyü üçün cinlərdəndə çox sevəndir!
+## Allahın Zatı Nurdandır.
+## Allah Zatından bizə ruh üfürüb.
+## Allahın nəfsi Yoxdur.
+## Allahın afətləri Yoxdur.
+## Allahın iradəsi Var. 
+## Allah öz iradəsindən insanlara və cinlərə cüzi iradə verib.
+## Allahın məkana ehtiyacı yoxdur. (İnsanlara görünmək üçün Allah ƏRŞƏ çəkilib.)
+## Allah yemir, içmir. 
+## Allah yeməyi və içməyi insanlar üçün yaradıb.
 
-2. Kainat
-   - 2.1. Kainat Allahın "OL" əmriylə yoxdan yarandı.
-   - 2.2. Kainatın 7 aləmi var
-     - 2.2.1. Əmr aləmi (Mələklərin aləmi və cənnətlər).
-       - 1-ci cənnət qatı - ALİYE
-       - 2-ci cənnət qatı - FİRDEVS
-       - 3-cü cənnət qatı - HULD
-       - 4-cü cənnət qatı - QURAFAN
-       - 5-ci cənnət qatı - MEVA
-       - 6-ci cənnət qatı - NAİM
-       - 7-ci cənnət qatı - ADN (7 aləmi var)
-     - 2.2.2. Cinlərin fizik aləmi.
-     - 2.2.3. Cinlərin bərzaq aləmi.
-     - 2.2.4. İnsanların fizik aləmi.
-     - 2.2.5. İnsanların bərzaq aləmi.
-     - 2.2.6. Zülmani aləm - (Şeytanlar aləmi və cəhənnəmlər)
-       - 1. QAFİL OLANLAR
-       - 2. SAİR
-       - 3. HUTAMƏ
-       - 4. TELEZZA
-       - 5. SEKAR
-       - 6. CEHİM
-       - 7. HAVİYE
-     - 2.2.7. Yoxluq aləmi - (Allahın çəkildiyi yer (ƏRŞ))
-   - 2.3. Kainat insan formasındadır.
-   - 2.4. Kainatın adı ADƏM
-   - 2.5. İnsanların fizik aləmi milyonlarla qalaksilərdən ibarətdi. (Hər qalaksidə milyonlarla ulduzlar və planetlər var).
+# KAİNAT
+## Kainat Allahın "OL" əmriylə yoxdan yaranıb.
+## Kainatın 7 aləmi var
+### 1. Aləm - Əmr aləmi (Mələklərin aləmi və cənnətlər).
+- 1. cənnət qatı - ALİYE
+- 2. cənnət qatı - FİRDEVS
+- 3. cənnət qatı - HULD
+- 4. cənnət qatı - QURAFAN
+- 5. cənnət qatı - MEVA
+- 6. cənnət qatı - NAİM
+- 7. cənnət qatı - ADN
+### 2. Aləm - Cinlərin fizik aləmi.
+### 3. Aləm - Cinlərin bərzaq aləmi.
+### 4. Aləm - İnsanların fizik aləmi.
+### 5. Aləm - İnsanların bərzaq aləmi.
+### 6. Aləm - Zülmani aləm - (Şeytanlar aləmi və cəhənnəmlər)
+- 1. cəhənnəm qatı - QAFİL OLANLAR
+- 2. cəhənnəm qatı - SAİR
+- 3. cəhənnəm qatı - HUTAMƏ
+- 4. cəhənnəm qatı - TELEZZA
+- 5. cəhənnəm qatı - SEKAR
+- 6. cəhənnəm qatı - CEHİM
+- 7. cəhənnəm qatı - HAVİYE
+### 7. Aləm - Yoxluq aləmi - (Allahın çəkildiyi yer (ƏRŞ))
+## Kainat insan formasındadır.
+## Kainatın adı - ADƏMdir
+## İnsanların fizik aləmi milyonlarla qalaksilərdən ibarətdi. (Hər qalaksidə milyonlarla ulduzlar və planetlər var).
 
-3. İnsan
-   - 3.1 İnsanın 3 vücudu var.
-     - 3.1.1 Ruh
-     - 3.1.2 Fizik vücud
-     - 3.1.3 Nəfs
-     - 3.1.4 İradə
-     - 3.1.5 Akıl
-     - 3.1.6 Zövq (Seçim)
-   - 3.2 Ruh Allahın uzantısıdır. 
-   - 3.3 Ruh Allahın yaratdığı məxluqdur. 
-   - 3.4 Nəfs enerji bədəndi.
-   - 3.5 Nəfsin qəlbində 19 afət var.
-     - 3.5.1 Kin və Nifrət
-     - 3.5.2 Küfür (imansızlıq, iman etməmək)
-     - 3.5.3 Yalan
-     - 3.5.4 Zülüm (özümüzə və başkalarına)
-     - 3.5.5 Haset (Paxıllıq)
-     - 3.5.6 Cəhalət verib(Mənəvi elimsizlik)
-     - 3.5.7 Cimrilik (Xəsislik)
-     - 3.5.8 Öfkə və Gayz (Hisrənmək)
-     - 3.5.9 İsyan (Əmrə qarşı çıxmaq)
-     - 3.5.10 Səbirsizlik 
-     - 3.5.11 Kibir və Qürur (Üstünlük və Lovğalıq)
-     - 3.5.12 Hırs və Şəhvət (Tamah)
-     - 3.5.13 Nankörluq
-     - 3.5.14 Dedikodu (Başkalarının dalınca danışmaq)
-     - 3.5.15 Zənn (Bilmədiyimizi danışmaq)
-     - 3.5.16 İptilalar (Pis vərdişlər)
-     - 3.5.17 Vəfasızlıq (Sözün üstündə durmamaq)
-     - 3.5.18 Mürailik (İkiüzlülük)
-     - 3.5.19 Fitnə və Fəsad (Ara qarışdırmaq)
-   - 3.6 Fizik vücud ət və sümükdən ibarətdi. (Salsalin adlı palçıqdan yaradılıb).
-     - 3.6.1 Daxili orqanlar.
-       - 3.6.1.1 Ürək (Qan pompalayır, Orqanları gidalandırır)
-       - 3.6.1.2 Beyin (Orqanlarımızı, yaddaşımızı və hərəkətlərimizi idarə edir)
-       - 3.6.1.3 Ciyərlər (Qan təmizləyir və oksigen verir)
-       - 3.6.1.4 Böyrəklər (Qandan ziyanlı şeyləri çıxarır)
-       - 3.6.1.5 Mədə və bağırsaqlar (Qidanı həzm edir, artığını çıxarır)
-       - 3.6.1.6 Gözlər və Qulaqlar (Görmək və eşitmək)
-     - 3.6.2 Digər orqanlar.
-       - 3.6.2.1 Baş
-       - 3.6.2.2 Əllər, qollar, ayaqlar.
-   - 3.7 Allah öz iradəsindən insana cüzi iradə verib.
-     - 3.7.1 Cüzi iradə mənəvi gücdür. (Nəfsin afətlərinə qarşı çıxan güc. Allahın əmirlərini yerinə yetirmək üçün güc)
-     - 3.7.2 Cüzi iradə, insan Allaha qovuşmağı dilədikdən sonra işə düşür.
-     - 3.7.3 Cüzi iradədən istifadə etmək üçün Mürşidə tabi olamq lazımdır.
-   - 3.8 Ağıl Allahın bütün kainatı və insanları idarə etmək üçün yaratdığı məxluqdur.
-     - 3.8.1 insanın ağlı başından biraz yuxarda yerləşir.
-     - 3.8.2 Ağıl insanın beynini kullanaraq vücudu idarə edir. 
-     - 3.8.3 Ağıl beyinə əmr edərək vücudu idarə edir.
-     - 3.8.4 Nəfs istəklərinə görə ağıla əmr edir.
-     - 3.8.5 Nəfsi idarə edən afətləridir. 
-     - 3.8.6 Allah bütün insanları öz nəfslərinə qul yaradıb.
-     - 3.8.7 Allah insanı möhtac (ehtiyacı olan) və aciz (çarəsiz) yaradıb
-   - 3.9 İnsan maadi və mənəvi şeylər üçün Allaha möhtacdı.
-   - 3.10 İnsan sosyal varlıqdır (Başqa insanlara möhtac).
-   - 3.11 Nəfsinin qulluğundan qurtrmaq üçün Allaha qovuşmağı diləmək lazımdır.
+# İNSAN
+## İnsanın 3 vücudu var.
+- Ruh
+- Fizik vücud
+- Nəfs
+## Ruh
+- Ruh Allahın yaratdığı məxluqdur. 
+- Ruh Allahın uzantısıdır. 
+## Fizik vücud
+- Fizik vücud ət və sümükdən ibarətdi. (Salsalin adlı palçıqdan yaradılıb).  
+Fizik vücudun orqanları:
+- Beyin (Orqanları, yaddaşımızı və hərəkətlərimizi idarə edir)
+- Gözlər və Qulaqlar (Görmək və eşitmək üçün)
+- Ürək (Qan pompalayan)
+- Əllər, qollar, ayaqlar.
+## Nəfs
+### Nəfs enerji bədəndi. Qəlbində 19 afəti var.
+- 1. Kin və Nifrət
+- 2. Küfür (imansızlıq, iman etməmək)
+- 3. Yalan
+- 4. Zülüm (özümüzə və başkalarına)
+- 5. Haset (Paxıllıq)
+- 6. Cəhalət verib(Mənəvi elimsizlik)
+- 7. Cimrilik (Xəsislik)
+- 8. Öfkə və Gayz (Hisrənmək)
+- 9. İsyan (Əmrə qarşı çıxmaq)
+- 10. Səbirsizlik 
+- 11. Kibir və Qürur (Üstünlük və Lovğalıq)
+- 12. Hırs və Şəhvət (Tamah)
+- 13. Nankörluq
+- 14. Dedikodu (Başkalarının dalınca danışmaq)
+- 15. Zənn (Bilmədiyimizi danışmaq)
+- 16. İptilalar (Pis vərdişlər)
+- 17. Vəfasızlıq (Sözün üstündə durmamaq)
+- 18. Mürailik (İkiüzlülük)
+- 19. Fitnə və Fəsad (Ara qarışdırmaq)
+### Nəfsi idarə edən afətləridir. 
+### Allah bütün insanları nəfslərinə qul yaradıb.
+### İnsan nəfsinin qulluğundan qurtrmaq üçün Allaha qovuşmağı diləməlidir.
+## İnsanın İradəsi var
+### Allah öz iradəsindən insana cüzi iradə verib.
+- Cüzi iradə mənəvi gücdür. (Nəfsin afətlərinə qarşı çıxan güc. Allahın əmirlərini yerinə yetirmək üçün güc)
+- Cüzi iradə, insan Allaha qovuşmağı dilədikdən sonra işə düşür.
+- Cüzi iradədən istifadə etmək üçün Mürşidə tabi olamq lazımdır.
+## İnsanın Aklı var
+### Ağıl Allahın bütün kainatı və insanları idarə etmək üçün yaratdığı məxluqdur.
+- İnsanın ağlı başından biraz yuxarda yerləşir.
+- Ağıl insanın beynini kullanaraq vücudu idarə edir (beyinə əmr edərək).
+- Nəfs istəklərinə görə ağıla əmr edir.
+## İnsanın Zövqü (Seçim) var
+- Allah insanın zövqünə qarışmaz
+## İnsan maadi və mənəvi şeylər üçün Allaha möhtacdı.
+- Allah insanı möhtac (ehtiyacı olan) və aciz (çarəsiz) yaradıb
+- İnsan sosyal varlıqdır (Başqa insanlarada möhtacdı).
+- Allah hər şeyi insan üçün yaradıb. İnsanı isə özü üçün yaradıb.
 
-- 4. DUA
-   - 4.1 Allaha qul olmaq üçün dua: "Allahım, mənimdə ruhumu sənə qovuşdur". 
-   
-   - İnsan Allaha nə söz verib? - İnsan qalubəla günü Allaha 4 təslimlə təslim olmağı söz verib.
-     - 1-ci təslim - ruhun təslimi. Ruhumuzun həyatda ikən Allaha qovuşmağını Allahdan istəyəcəyini söz verib.
-     - Biz ruhumuzu necə təslim edəcəyik Allaha? 
-       - Biz etməyəcəyik. 
-       - Biz yalnız Allahdan bunu istəyəcəyik. 
-       - Allah bu istəyi qəlbimizdə görən kimi duamızı qəbul edəcək. 
-       - Qəbul edən kimi bizim içimizə sevgi qoyacaq.
-       - Allaha sevgi qoyacaq. 
-       - Bizim üçün Mürşid (Mənəvi müəllim) təyin edəcək. 
-       - Və o Mürşidə sevgi qoyacaq. 
-       - Namaza sevgi qoyacaq. 
-       - Zikrə sevgi qoyacaq. 
-       - Oruca sevgi qoyacaq.
-       - İnsanlara sevgi qoyacaq.
-       - Hər şeyə sevgi qoyacaq.
-   - Biz hacət namazını örgənib Mürşidimizi Allahdan istiyəciyik.
-     - Allah bizə Mürşidimizi göstərəcək
-     - Biz Mürşidimizin qabağında tövbə edib əlini öpən kimi, ruhumuz vücudumuzdan çıxacaq.
-     - Mürşidimizin ruhu gəlib başımızın üstündə duracaq. Bizi qoruyacaq. 
-     - Ruhumuz isə Allaha gedən yola girəcək və biz zikir etdikçə, Allaha doğru gedəcək.
-     - Mürşidimizin bizə verdiyi dərsləri yerinə yetirdikçə ruhumuz göy qatlarını uçaraq çıxacaq.
-   - Bu dərsləri dünya işləriylə yanaşı etmək lazımdı, yoxsa dünya işlərini atıb ancaq zikr etmək? - Peyğəmbərimiz bizə deyir ki: "Din üçün dünyanı, dünya üçündə dini tərk etmək yalnışdı". Dünyada bizə düşən vəzifələrimizi Allahı zikr edərək görməyi örgənəciyik. Və zamanla hər daim Allahnan olub, Allahı zikr edərək bizə düşən dünya işlərinidə görəciyik. Allah hər şeyi insan üçün yaradıb. Dünyanıda, kainatıda, aləmləridə.
-   - Kainatda insan hansı aləmlərdə ola bilər? - bütün aləmlərdə ola bilər. 
-   - İnsan nə vaxt başqa aləmlərə gedə bilər? - Allaha verdiyi sözləri yerinə yetirdikdən sonra. Və ən sonda Allahın özünüdə görəcək.
-   - Ruhumuzun təslim etdiyimizi necə biləciyik? Mürşidimizin bizə verdiyi görəvləri yerinə yetirməyi artıq çətinlik çəkmədən edə bildiyimiz zaman (Virdimizi hər gün bütün göy qatlarını keçə bildiyimiz zaman, namazları örgənib qıldığımız zaman, anamıza atamıza gözəl davrandığımız zaman, onlara itayət etdiyimiz zaman) ruhumuz Allaha qovuşdu demək.
-   - Ruhumuzdan başqa daha nə söz vermişik? - Fizik vücudumuzun ona təslim olacağını.
-   - Necə biləciyik fizik vücudun təslimini? - Başqalarını sevərək, başqaları üçün olarak, onlarında bizdən razı olduğunu görərsək, Allahın bütün əmirlərini yerinə yetirən, heç bir qadağasına girməyən olanda fizik vucudumuzu Allaha təslim etmişik demək ki.
+# DUA
 
-------------------------------------------------------------
 
-5. Mələklər
-   - Mələklərin aləmi hansıdır? - Əmr aləmi.
-   - Mələklərin ruhu var? - Yox. Allah ruhundan yalnız insanlara üfürüb.
-   - Mələklərin nəfsləri var? - Yox. Nəfs yalnız iki məxluqda var: İnsan və Cinlərdə.
-   - Mələklərdə iradə var? - Yox. Onlar əmr aləmin məxluqlarıdı və yalnız Allahın əmri ilə hərəkət edirlər.
-   - Mələklərin fizik vücudu var? - Yox. Onların yalnız bir vücudu var o da nurdandı.
-   - Mələklər cəhənnəmə gedəcəklər? - Yox. Onların iradələri olmadığından sorumlu deyillər. Cəhənnəm üçün ayrıca mələklər var ki cəhənnəmin qapısında iş görüllər və cəhənmdə cəza verillər. Amma onlara cəhənnəm təsir etməyəcək.
-   - Mələklər cənnətə gedəcək? Yalnız cənnətdə iş görən mələklər. 
-   - Mələklərdən peyğəmbər olanları var? - Yox. Peyğəmbər yalnız insanlardan olur.
-   - Mələklərdən rəsul olanlar var? Bəli. Peyğəmbərlərin Mürşidi Cəbrail ə.s., Mikayıl (sür üfürən), Əzrail (İnsanların vaxtı çatanda ruhlarını Allaha aparan və insanın vücudunu söndürən), Müjdəliyici mələklər, Xəbər verici mələklər və bunun kimi başkaları.
-   
-6. Cinlər
-   - Cinlərin ruhu var? - Yox. Allah ruhundan yalnız insanlara üfürüb.
-   - Cinlərin nəfsləri var? Bəli var. 19 afətləridə var.
-   - Cinlərin vücudu var? - Var. Enerji vücüdları var. 
-   - Cinlər harda yaşayır? - Cinlərin öz fiziki aləmləri var. 
-   - Cinlərin iradələri var? - Var. Allah onlarada iradə verib.
-   - Cinlər ölür? - əlbətdə. Öləndə vücudları yanır yox olur. Nəfsləri gedir özlərinin bərzaq aləminə.
-   - Cinlər cənnətə gedəcək? Müsəlman olanlar gedəcək cənnətə. 
-   - Cinlər cəhənnəmə gedəcək? Müsəlman olmayanlar gedəcək cəhənnəmə. 
-   - Cinlərdən peyğəmbər olanları var? - Yox. Peyğəmbər yalnız insanlardan olur.
-   - Cinlərdən rəsul olanlar var? Bəli var. 
+## Allaha qul olmaq üçün dua: "Allahım, mənimdə ruhumu sənə qovuşdur". 
+### Allah bu diləyi qəlbimizdə görən kimi:
+#### Duamızı qəbul edəcək.
+#### İçimizə SEVGİ qoyacaq:
+- Allaha SEVGİ. 
+- Mürşidə SEVGİ. 
+- Namaza SEVGİ. 
+- Zikir çəkməyə SEVGİ. 
+- Oruc tutmağa SEVGİ.
+- İnsanlara SEVGİ.
+- Hər şeyə və hər kəsə SEVGİ.
+#### Bizim üçün Mürşid (Mənəvi müəllim) təyin edəcək. 
+- Biz hacət namazı ilə Mürşidimizi Allahdan istiyəciyik.
+- Allah bizə Mürşidimizi göstərəcək.
+- Biz Mürşidimizin qabağında tövbə edib əlini öpən kimi, ruhumuz vücudumuzdan ayrılacaq.
+- Mürşidimizin ruhu gəlib başımızın üstündə duracaq.
+- Ruhumuz isə bizdən ayrılıb Allaha gedən yola girəcək.
+- Biz zikir etdikçə ruhumuz Allaha gedən yolla irəliləyəcək (göy qatlarını uçaraq çıxacaq).
 
-7. Şeytanlar
