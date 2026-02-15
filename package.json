@@ -1,7 +1,7 @@
 {
   "name": "okul",
   "version": "1.0.0",
-  "description": "Islamic education website",
+  "description": "TASAVVUF IBTIDAI MEKTEB",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
