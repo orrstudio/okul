@@ -1,5 +1,6 @@
 const themeToggle = document.getElementById('themeToggle');
 const contentDiv = document.getElementById('content');
+const userRoleSpan = document.getElementById('userRole');
 
 function setTheme(dark) {
   if (dark) {
@@ -30,6 +31,14 @@ if (themeToggle) {
     const isDark = !document.body.classList.contains('light');
     setTheme(!isDark);
   });
+}
+
+if (userRoleSpan) {
+  fetch('/session')
+    .then(r => r.json())
+    .then(data => {
+      userRoleSpan.textContent = data.role === 'admin' ? 'Müəllim' : 'Şagird';
+    });
 }
 
 if (contentDiv) {

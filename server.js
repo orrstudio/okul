@@ -6,7 +6,8 @@ const { marked } = require('marked');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const AUTH_PASSWORD = process.env.AUTH_PASSWORD || 'ders';
+const AUTH_PASSWORD_USER = process.env.AUTH_PASSWORD_USER || 'okul';
+const AUTH_PASSWORD_ADMIN = process.env.AUTH_PASSWORD_ADMIN || 'admin888';
 const SESSION_SECRET = process.env.SESSION_SECRET || 'okul-secret-key';
 
 app.use(express.json());
@@ -37,8 +38,14 @@ app.get('/login', (req, res) => {
 
 app.post('/login', (req, res) => {
   const { password } = req.body;
-  if (password === AUTH_PASSWORD) {
+  if (password === AUTH_PASSWORD_ADMIN) {
     req.session.authenticated = true;
+    req.session.role = 'admin';
+    return res.json({ success: true, redirect: '/' });
+  }
+  if (password === AUTH_PASSWORD_USER) {
+    req.session.authenticated = true;
+    req.session.role = 'user';
     return res.json({ success: true, redirect: '/' });
   }
   return res.status(401).json({ success: false, error: 'Yanlış parol' });
@@ -48,6 +55,10 @@ app.post('/logout', (req, res) => {
   req.session.destroy(() => {
     res.redirect('/login');
   });
+});
+
+app.get('/session', requireAuth, (req, res) => {
+  res.json({ role: req.session.role || 'user' });
 });
 
 app.get('/content', requireAuth, (req, res) => {
@@ -70,5 +81,5 @@ app.get('/', requireAuth, (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`Server: http://localhost:${PORT}`);
-  console.log(`Password: ${AUTH_PASSWORD}`);
+  console.log(`User: okul | Admin: admin888`);
 });
