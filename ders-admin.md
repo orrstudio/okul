@@ -240,3 +240,37 @@ Baba Ərən gülərək cavab verir:
 
 > "Allahım, mənimdə ruhumu sənə qovuşdur". 
 
+## SUAL CAVAB
+
+İnsanla Allah arasındakı ən böyük bağ - duadır.
+Dua - Allaha müraciət etmənin və Ondan istəmənin adıdır.
+Allah ürəkdə olan duaları bilir, amma  buna baxmayaraq Allaha dua etmək yenədə lazımdır.
+Allah insanların məyus olmasını istəmir.
+Hər şeyi yaradan Allah hər zaman Özünə müraciət etməyimizi (dua etməyimizi) istəyir.
+Allah duaları qəbul edəndir.
+Allah ürəyimizə baxır və ürəkdən inanaraq edilən duaları qəbul edir.
+
+### Allah bu diləyi qəlbimizdə görən kimi:
+#### - Duamızı qəbul edər.
+#### - İçimizə SEVGİ qoyar:
+- Allaha SEVGİ. 
+- Mürşidə SEVGİ. 
+- Namaza SEVGİ. 
+- Zikir çəkməyə SEVGİ. 
+- Oruc tutmağa SEVGİ.
+- İnsanlara SEVGİ.
+- Hər şeyə və hər kəsə SEVGİ.
+#### - Bizim üçün Mürşid (Mənəvi müəllim) təyin edəcək. 
+- Biz hacət namazı ilə Mürşidimizi Allahdan istiyəciyik.
+- Allah bizə Mürşidimizi göstərəcək.
+- Biz Mürşidimizin qabağında tövbə edib əlini öpən kimi, ruhumuz vücudumuzdan ayrılacaq.
+- Mürşidimizin ruhu gəlib başımızın üstündə duracaq.
+- Ruhumuz isə bizdən ayrılıb Allaha gedən yola girəcək.
+- Biz zikir etdikçə ruhumuz Allaha gedən yolla irəliləyəcək (göy qatlarını uçaraq çıxacaq).
+
+## ALLAHIN DOSTLUĞUNA QAÇAQ, XOŞBƏXT OLAQ
+## HİMMƏT (MƏNƏVİ MÜƏLLİMİMİN MƏNİM ÜÇÜN DUASI)
+## YEMƏK DUASI
+
+
+
