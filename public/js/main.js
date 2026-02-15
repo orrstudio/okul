@@ -44,6 +44,7 @@ if (userRoleSpan) {
 if (contentDiv) {
   fetch('/content')
     .then(r => {
+      console.log('Content response status:', r.status);
       if (!r.ok) throw new Error('Not authorized');
       return r.json();
     })
@@ -51,6 +52,7 @@ if (contentDiv) {
       contentDiv.innerHTML = data.content;
     })
     .catch(err => {
+      console.error('Content error:', err);
       contentDiv.innerHTML = '<p>Xəta baş verdi</p>';
     });
 }

@@ -63,8 +63,10 @@ app.get('/session', requireAuth, (req, res) => {
 
 app.get('/content', requireAuth, (req, res) => {
   const mdPath = path.join(__dirname, 'ders.md');
+  console.log('Loading from:', mdPath);
   fs.readFile(mdPath, 'utf8', (err, data) => {
     if (err) {
+      console.error('Error loading markdown:', err);
       return res.status(500).json({ error: 'Markdown file not found' });
     }
     const html = marked(data);
