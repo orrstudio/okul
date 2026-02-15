@@ -35,16 +35,30 @@ if (themeToggle) {
 
 if (userRoleSpan) {
   fetch('/session')
-    .then(r => r.json())
+    .then(r => {
+      if (r.redirected) {
+        window.location.href = r.url;
+        return;
+      }
+      return r.json();
+    })
     .then(data => {
-      userRoleSpan.textContent = data.role === 'admin' ? 'Müəllim' : 'Şagird';
-    });
+      if (data) {
+        userRoleSpan.textContent = data.role === 'admin' ? 'Müəllim' : 'Şagird';
+      }
+    })
+    .catch(() => {});
 }
 
 if (contentDiv) {
   fetch('/content')
     .then(r => {
-      console.log('Content response status:', r.status);
+      console.log('Content response status:', r.status, r.redirected);
+      if (r.redirected) {
+        console.log('Redirected to:', r.url);
+        window.location.href = r.url;
+        return;
+      }
       if (!r.ok) throw new Error('Not authorized');
       return r.json();
     })
@@ -53,7 +67,7 @@ if (contentDiv) {
     })
     .catch(err => {
       console.error('Content error:', err);
-      contentDiv.innerHTML = '<p>Xəta baş verdi</p>';
+      contentDiv.innerHTML = '<p>Xəta baş verdi: ' + err.message + '</p>';
     });
 }
 

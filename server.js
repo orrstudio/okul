@@ -13,11 +13,18 @@ const SESSION_SECRET = process.env.SESSION_SECRET || 'okul-secret-key';
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+const isProduction = process.env.NODE_ENV === 'production';
+
 app.use(session({
   secret: SESSION_SECRET,
   resave: false,
   saveUninitialized: false,
-  cookie: { secure: false, httpOnly: true }
+  cookie: { 
+    secure: isProduction, 
+    httpOnly: true,
+    sameSite: 'lax',
+    maxAge: 24 * 60 * 60 * 1000
+  }
 }));
 
 function requireAuth(req, res, next) {
@@ -58,8 +65,11 @@ app.post('/logout', (req, res) => {
   });
 });
 
-app.get('/session', requireAuth, (req, res) => {
-  res.json({ role: req.session.role || 'user' });
+app.get('/session', (req, res) => {
+  if (req.session && req.session.authenticated) {
+    return res.json({ role: req.session.role || 'user' });
+  }
+  res.json({});
 });
 
 app.get('/content', requireAuth, (req, res) => {
