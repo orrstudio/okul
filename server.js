@@ -38,17 +38,18 @@ app.get('/login', (req, res) => {
 
 app.post('/login', (req, res) => {
   const { password } = req.body;
+  console.log('Login attempt, password:', password);
   if (password === AUTH_PASSWORD_ADMIN) {
     req.session.authenticated = true;
     req.session.role = 'admin';
-    return res.json({ success: true, redirect: '/' });
+    return res.redirect('/');
   }
   if (password === AUTH_PASSWORD_USER) {
     req.session.authenticated = true;
     req.session.role = 'user';
-    return res.json({ success: true, redirect: '/' });
+    return res.redirect('/');
   }
-  return res.status(401).json({ success: false, error: 'Yanlış parol' });
+  return res.redirect('/login?error=1');
 });
 
 app.post('/logout', (req, res) => {

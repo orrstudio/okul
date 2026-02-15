@@ -17,7 +17,7 @@
     <img src="/assets/tm.png" alt="Təsəvvüf Məktəbi" class="login-logo">
     <div class="login-container">
       <div id="error" class="error" style="display:none"></div>
-      <form id="loginForm">
+      <form action="/login" method="POST">
         <input type="password" name="password" placeholder="Parol" required>
         <button type="submit">Daxil ol</button>
       </form>
@@ -49,38 +49,14 @@
       setTheme(!isDark);
     });
 
-    // Login form
-    document.getElementById('loginForm').addEventListener('submit', async (e) => {
-      e.preventDefault();
-      const password = e.target.password.value;
-      const btn = e.target.querySelector('button');
-      btn.disabled = true;
-      btn.textContent = 'Gözləyin...';
-      
-      try {
-        const response = await fetch('/login', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ password })
-        });
-        const data = await response.json();
-        if (data.success) {
-          window.location.href = data.redirect;
-        } else {
-          document.getElementById('error').textContent = data.error || 'Xəta baş verdi';
-          document.getElementById('error').style.display = 'block';
-          btn.disabled = false;
-          btn.textContent = 'Daxil ol';
-        }
-      } catch (err) {
-        document.getElementById('error').textContent = 'Şəbəkə xətası';
-        document.getElementById('error').style.display = 'block';
-        btn.disabled = false;
-        btn.textContent = 'Daxil ol';
-      }
-    });
-
     initTheme();
+
+    // Show error if redirected with error param
+    const params = new URLSearchParams(window.location.search);
+    if (params.get('error')) {
+      document.getElementById('error').textContent = 'Yanlış parol';
+      document.getElementById('error').style.display = 'block';
+    }
   </script>
 </body>
 </html>
