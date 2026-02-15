@@ -1,4 +1,4 @@
-> -------
+> ---
 >
 > Allahım, mənidə başqalarına dost olan qullarından elə!
 >
@@ -161,15 +161,16 @@ Fizik vücudun orqanları:
 - İnsanla Allah arasında ən böyük bağ - DUADIR.
 - DUA — Allahdan istəməyin adıdır. 
 - DUA — həyatımızın uğur və xoşbəxtliklə davam etməsi üçün əsas vasitədir.
-- Allah Quranda “Allah’a dua edin” buyurur.
+- Allah Quranda “Allaha dua edin” buyurur.
 
 > “Əgər siz dua etməyən, bizimlə əlaqə qurmayan varlıqlar olsaydınız, sizi yox edib yerinizə başqalarını gətirərdik” — deyir Allah.
 
 - Allah üçün bir qulun Ona müraciət etməsi vacibdir.
 - Allah hər zaman insanlardan ona dua etmələrini gözləyir.
-- Kim Allaha müraciət edirsə, o, Allahı Rəbb yerinə qoyur deməkdir.
-- Allah — Qulunun istəklərini yerinə yetirəndir. 
-- Qul — Allahdan istəyəndir. 
+- Kim Allaha müraciət edirsə, o Allahı Rəbb yerinə qoyur deməkdir.
+- Allah — Qullarının istəklərini yerinə yetirəndir. 
+- Qul (insan) — Allahdan istəyəndir. 
+- Allah bizim dualarımıza icabət (qəbul) etməyi Quranda Bəqərə surəsi 186 ayətdə söz verib.
 - Allah sizin nə istədiyinizi əlbəttə bilir.
 - Amma siz bu istəklərinizi Allahadan dua edərək, istəməsəniz, Allah istəkərinizi yerinə yetirməz. 
 - Mütləq istəyinizi dua etməlisiniz.
@@ -240,7 +241,19 @@ Baba Ərən gülərək cavab verir:
 - Beləliklə, Allah ürəyində inancı olanlara lazım olan yardımı mütləq göstərir. 
 - Bu hekayədəki kəndlilər də əlbəttə inanc sahibidirlər, ama onlarda Allahın yağış yağdıracağına kifayət qədər inamları yoxdur diyə Allah dualarını qəbul etmir.
 
+
+## SUAL - CAVAB
+
+![sualcavab1](/assets/pictures/sualcavab1.jpg)
+
+- İnsanla Allah arasındakı ən böyük bağ - duadır - DOĞRUDUR
+- Dua - Allaha müraciət etmənin və Ondan istəmənin adıdır - DOĞRUDUR
+- Allah ürəkdə olan duaları bilir, amma  buna baxmayaraq Allaha dua etmək yenədə lazımdır - DOĞRUDUR
+- Allah insanların xoşbəxt olmasını istəmir - YALNIŞDIR
+- Hər şeyi yaradan Allah hər zaman Özünə müraciət etməyimizi (dua etməyimizi) istəyir - DOĞRUDUR
+- Allah duaları qəbul edəndir - DOĞRUDUR
+- Allah ürəyimizə baxır və ürəkdən inanaraq edilən duaları qəbul etmir - YALNIŞDIR
+
 ## ƏN VACİB DUA: "ALLAHA QOVUŞMAĞI DİLƏMƏK"
 
 > "Allahım, mənimdə ruhumu sənə qovuşdur". 
-
