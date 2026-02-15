@@ -1,13 +1,16 @@
 # ALLAH
-## - Allah SEVƏNDİR!
+
+![Allah](/assets/pictures/Allah.svg)
+
+## - Allah ❤️ SEVƏNDİR ❤️
 ## - Allah hər şeyə qadir olandır!
-## - Allah duaları qəbul edəndir! (Allah yalnız ona dua edənlərin duasını qəbul edər.)
+## - Allah duaları 🙏 qəbul edəndir! (Allah yalnız ona dua edənlərin duasını qəbul edər.)
 ## - Allah heçnəyə ehtiyacı olmayandır! 
 ## - Allah sonsuz sürrətin sahibidir!
 ## - Allah hər zaman var olandır! (Zaman olmayanda Allah var olandır.)
 ## - Allah istədiyi hər şeyi "OL" əmriylə yoxdan yaradandır! 
-- Kainat
-- Zaman
+- Kainat 🌌
+- Zaman ⌛
 - Sürrət
 - Aləmlər
 - Cənnətlər
@@ -15,16 +18,16 @@
 - Cəhənnəmlər
 - Şeytanlar
 - Cinlər
-- Planetlər
-- İnsanlar
+- Planetlər 🪐
+- İnsanlar 🧍
 - Ruhlar
 - Nəfslər
-- Heyvanlar
-- Bitkilər
+- Heyvanlar 🐶
+- Bitkilər 🌹
 - Dağlar
-- Su
+- Su 💧
 - Okeanlar
-- Od
+- Od 🔥
 ## - Allah yaratdıqları arasında ən çox İnsanı sevəndir!
 ## - Allah insanı və cinləri nəfs səbəbi ilə ən çox sevəndir!
 ## - İnsanları isə ruhundan üfürdüyü üçün cinlərdəndə çox sevəndir!
@@ -39,8 +42,14 @@
 ## - Allah yeməyi və içməyi insanlar üçün yaradıb.
 
 # KAİNAT
+
+![Kainat](/assets/pictures/Orion-Nebula-Hubble-2006.svg)
+
 ## - Kainat Allahın "OL" əmriylə yoxdan yaranıb.
 ## - Kainatın 7 aləmi var
+
+![7Alem](/assets/Alemler.png)
+
 ### - 1. Aləm - Əmr aləmi (Mələklərin aləmi və cənnətlər).
 1. cənnət qatı - ALİYE
 2. cənnət qatı - FİRDEVS

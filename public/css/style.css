@@ -130,6 +130,13 @@ main {
   color: var(--accent);
 }
 
+.markdown-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+}
+
 .login-page {
   display: block;
 }
