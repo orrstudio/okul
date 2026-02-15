@@ -10,19 +10,19 @@ const AUTH_PASSWORD_USER = process.env.AUTH_PASSWORD_USER || 'okul';
 const AUTH_PASSWORD_ADMIN = process.env.AUTH_PASSWORD_ADMIN || 'admin888';
 const SESSION_SECRET = process.env.SESSION_SECRET || 'okul-secret-key';
 
+app.set('trust proxy', 1);
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-
-const isProduction = process.env.NODE_ENV === 'production';
 
 app.use(session({
   secret: SESSION_SECRET,
   resave: false,
   saveUninitialized: false,
   cookie: { 
-    secure: isProduction, 
+    secure: true, 
     httpOnly: true,
-    sameSite: 'lax',
+    sameSite: 'none',
     maxAge: 24 * 60 * 60 * 1000
   }
 }));
