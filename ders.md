@@ -1,4 +1,8 @@
+> -------
+>
 > Allahım, mənidə başqalarına dost olan qullarından elə!
+>
+> ---
 
 # ALLAH
 
