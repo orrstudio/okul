@@ -256,19 +256,23 @@ Baba Ərən gülərək cavab verir:
 
 ## ƏN VACİB DUA: "ALLAHA QOVUŞMAĞI DİLƏMƏK"
 
+![AUD](/assets/pictures/AUD.png)
+
 - "Allahım, mənimdə ruhumu sənə qovuşdur".
 - "Ya Rəbbim! Mən ruhumu bu dünya həyatını yaşayarkən Sənə qovuşdurmaq istəyirəm.
 Nə olar, mənim də ruhumu Özünə qovuşdur."
 
->
-> bu dunya həyatı - indi yaşadığımız dünya həyatıdır
-> o dünya həyatı - axirət həyatı deməkdir
->
+---
+- "BU" dunya həyatı - indi yaşadığımız dünya həyatı deməkdir
+- "O" dünya həyatı - axirət həyatı deməkdir
+---
 
 - Eşitdik, eşitmədik deməyin! Allaha qovuşmağı diləyin!
-- Allaha qovuşmağı diləmək - bir duadır, bir istəkdir.
-- İslamın giriş qapısıdır.
-- Olmazsa-olmaz şərtidir.
+- Allaha qovuşmağı diləmək:
+  - bir duadır, 
+  - bir istəkdir.
+  - İslamın giriş qapısıdır.
+  - Olmazsa-olmaz şərtidir.
 
 >
 > Allaha necə dua etsəniz edin, Allah hamısını nəzərə alır. 
