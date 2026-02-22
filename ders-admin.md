@@ -1,8 +1,7 @@
-> 
->
->
->
-> Allahım, mənidə başqalarına dost olan qullarından elə!
+---  
+  
+  
+Allahım, mənidə başqalarına dost olan qullarından elə!
 
 
 # ALLAH
@@ -263,6 +262,7 @@ Baba Ərən gülərək cavab verir:
 Nə olar, mənim də ruhumu Özünə qovuşdur."
 
 ---
+  
 - "BU" dunya həyatı - indi yaşadığımız dünya həyatı deməkdir
 - "O" dünya həyatı - axirət həyatı deməkdir
 ---
@@ -274,19 +274,16 @@ Nə olar, mənim də ruhumu Özünə qovuşdur."
   - İslamın giriş qapısıdır.
   - Olmazsa-olmaz şərtidir.
 
->
-> Allaha necə dua etsəniz edin, Allah hamısını nəzərə alır. 
-> Amma insanın Allah qatında dəyərli olması yalnız Allaha qovuşmağı diləməsi ilə başlayır.
->
+Allaha necə dua etsəniz edin, Allah hamısını nəzərə alır. Amma insanın Allah qatında dəyərli olması yalnız Allaha qovuşmağı diləməsi ilə başlayır.  
 
 - Kim Allaha qovuşmağı diləyərsə, o Allah qatında dəyərlidir.
-- Quranda Bəqərə surəsi 186-cı ayətdə Allah bütün insanları Özünə dəvət edir:
+- Quranda Bəqərə surəsi 186-cı ayətdə Allah bütün insanları Allaha qovuşmağı diləməyə dəvət edir:
 
-“Qullarım Məni səndən soruşsalar, de ki: Mən onlara yaxınam. Mənə dua edildiyi zaman, dua edənin duasını qəbul edərəm. Amma onların da Bizim dəvətimizi qəbul edib Amenu (Allaha qovuşmağı diləmələri) olmaları şərti ilə. Ümid edilir ki, beləliklə Amenu olanlar irşada çatacaqlar.”
+“Və qullarım səndən Məni soruşduğu zaman, şübhəsiz ki, Mən (onlara) yaxınam. Mənə dua ediləndə, dua edənin duasına (dəvətinə) icabət edərəm (qarşılıq verərəm). O halda, onlar da Mənə (Mənim dəvətimə) icabət etsinlər və Mənə amənu olsunlar (Mənə qovuşmağı diləsinlər). Umular ki, beləliklə, onlar irşada çatarlar (irşad olarlar).”
 
 - Bəqərə 186-cı ayətdə Allah birinci hissəsində dünyavi dualarımızı ŞƏRTSİZ qəbul edəcəyinə söz verib.
 - İkinci hissəsində isə mənəvi dualarımızı ŞƏRTLİ qəbul edəcəyinə söz verib.
-- ŞƏRT: Amenu olmaq (Allaha qovuşmağı diləmək)
+- ŞƏRT: Amenu olmaq (Allaha qovuşmağı diləməkdir)
 
 -------------------------------------------------------------------------
 
@@ -295,7 +292,6 @@ Nə olar, mənim də ruhumu Özünə qovuşdur."
 “Hər şey çoxmu gözəldir,
 yoxsa mənəmi elə gəlir?”
 
-Nə deyirsiniz?
 
 ### Allah bu diləyi qəlbimizdə görən kimi:
 #### - Duamızı qəbul edər.
