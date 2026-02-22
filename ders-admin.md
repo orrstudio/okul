@@ -1,8 +1,11 @@
----  
-  
-  
-Allahım, mənidə başqalarına dost olan qullarından elə!
+---
+---
+---
 
+# Ilk duamız
+  
+- Allahım, mənidə başqalarına dost olan qullarından elə!  
+  
 
 # ALLAH
 
