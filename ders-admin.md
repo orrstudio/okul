@@ -244,7 +244,7 @@ Baba Ərən gülərək cavab verir:
 - Beləliklə, Allah ürəyində inancı olanlara lazım olan yardımı mütləq göstərir. 
 - Bu hekayədəki kəndlilər də əlbəttə inanc sahibidirlər, ama onlarda Allahın yağış yağdıracağına kifayət qədər inamları yoxdur diyə Allah dualarını qəbul etmir.
 
-## SUAL - CAVAB
+## SUAL - CAVAB (1)
 
 ![sualcavab1](/assets/pictures/sualcavab1.jpg)
 
@@ -288,34 +288,91 @@ Allaha necə dua etsəniz edin, Allah hamısını nəzərə alır. Amma insanın
 - İkinci hissəsində isə mənəvi dualarımızı ŞƏRTLİ qəbul edəcəyinə söz verib.
 - ŞƏRT: Amenu olmaq (Allaha qovuşmağı diləməkdir)
 
--------------------------------------------------------------------------
-
-- Elə isə edəcəyimiz ən mühüm dua Allaha çatmağı diləməkdir.
-- O zaman eyni nəğməni birlikdə deyərik:
+- Elə isə edəcəyimiz ən önəmli dua Allaha qovuşmağı diləməkdir.
+- O zaman eyni nəğməni birlikdə deyək:
 “Hər şey çoxmu gözəldir,
 yoxsa mənəmi elə gəlir?”
 
+## SUAL - CAVAB (2)
 
-### Allah bu diləyi qəlbimizdə görən kimi:
-#### - Duamızı qəbul edər.
-#### - İçimizə SEVGİ qoyar:
-- Allaha SEVGİ. 
-- Mürşidə SEVGİ. 
-- Namaza SEVGİ. 
-- Zikir çəkməyə SEVGİ. 
-- Oruc tutmağa SEVGİ.
-- İnsanlara SEVGİ.
-- Hər şeyə və hər kəsə SEVGİ.
-#### - Bizim üçün Mürşid (Mənəvi müəllim) təyin edəcək. 
-- Biz hacət namazı ilə Mürşidimizi Allahdan istiyəciyik.
-- Allah bizə Mürşidimizi göstərəcək.
-- Biz Mürşidimizin qabağında tövbə edib əlini öpən kimi, ruhumuz vücudumuzdan ayrılacaq.
-- Mürşidimizin ruhu gəlib başımızın üstündə duracaq.
-- Ruhumuz isə bizdən ayrılıb Allaha gedən yola girəcək.
-- Biz zikir etdikçə ruhumuz Allaha gedən yolla irəliləyəcək (göy qatlarını uçaraq çıxacaq).
+Allah bunu əmr edir,  
+O, Özünə çağırır,  
+Bizdə bunu etdikdə,  
+Dərhal onu qəbul edir.  
+
+- Cavab - "DUA"
+
+1. - Allah’a necə dua etməliyik?
+
+- Cavab - "Ya Rəbbim! Mən ruhumu bu dünya həyatını yaşayarkən Sənə qovuşdurmaq istəyirəm.
+Nə olar, mənim də ruhumu Özünə qovuşdur."
+
+2. - Ən önemli dua nedir?
+
+- Cavab - Allaha qovuşmağı diləməkdir.
 
 ## ALLAHIN DOSTLUĞUNA QAÇAQ, XOŞBƏXT OLAQ
+
+"Allahın dostluğuna tələsin!  
+Allaha qovuşmağı diləyin,  
+səyahətə başlayaq.  
+Qoy Allah gəmini idarə etsin."  
+
+![gemi](/assets/pictures/gemi.png)
+
+Allaha qovuşmağı diləyən insan xoşbəxtlik qapısından içəri girmişdir. Cənnətin ilk sevincini qazanmışdır.  
+
+Beləliklə, xoşbəxtlik qapısını açmaq üçün hərəkətə keçin:  
+
+1. - Allaha qovuşmağı diləməliyik.
+2. - Ruhumuzun mütləq Allaha qovuşmasına inanmalıyıq.
+
+Bundan sonra ruh səyahətə başlayır.  
+
+Allahın dostu olmaq bizə dua qədər yaxındır.  
+Ona görə də Allahın dostluğuna tələsin!  
+Allaha qovuşmağa diləyin ki səyahət başlasın.  
+Qoyun Allah gəmini idarə etsin.  
+
+-------------------------------------------------------------------------
+
 ## HİMMƏT (MƏNƏVİ MÜƏLLİMİMİN MƏNİM ÜÇÜN DUASI)
+
+![himmet](/assets/pictures/himmet.jpg)
+
+Hamımız dualarımızın  tez qəbul olunmasını istəyirik.  
+Dualarımızın qəbul olunmasını sürətləndirəcək sirr:  
+
+- HİMMƏTDİR (mürşidimizin bizim üçün etdiyi dua)  
+
+![duaetmek](/assets/pictures/duaetmek.jpg)  
+
+- HİMMƏT - Allahdan istədiyimiz köməyin mürşid vasitəsilə Allaha çatdığı və Allah tərəfindən qəbul edilməsidir.
+- Başqa sözlə, HİMMƏT - Allah tərəfindən qəbul edilmiş mürşidimizin duasıdir.
+- Mürşidin vəzifəsi insanları Allaha yaxınlaşdırmaqdır.
+- Allahın insanlara köməyi üçün Allahı dəvət etməkdir, dua etməkdir.
+
+"İki əlin səsi var, Bir əlin nəyi var?..." deyimi sizdə nəyi oyadır?
+
+Əziz uşaqlar, hər kəs özü üçün Allaha dua edir və yalvarır. Məsələn, deyirlər: "Ey Rəbbim! Hamını xoşbəxt etmək istəyirəm. Xahiş edirəm, bu işdə mənə kömək et, Allahım." Hamınız bunu etməlisiniz. Həmişə birbaşa Allaha müraciət edərək Ondan kömək istəməlisiniz. Mənəvi bələdçinin dəstəyi əlavə və daha böyük bir kömək vasitəsidir. İnsan Mürşidinə çatdığı andan etibarən, Allahdan aldığı köməklə yanaşı, Mürşidin duaları vasitəsilə daha çox kömək alacaq. Atalarımız deyirlər: "İki əlin səsi var, Bir əlin nəyi var?..." İnsan Allaha dua edir və onun mənəvi bələdçisi onlar üçün dua edir və Allahın köməyi iki qat artır.
+
+Əslində, bütün köməyi verən Allahdır. Mənəvi bələdçinin xahişi ikinci bir xahiş kimi əlavə olunur. Qurani-Kərimdə Allah bizə səhabələri nümunə olaraq göstərir. Onlar günahları üçün Allahdan bağışlanma diləmişdilər və kainatın ən böyük Mürşidi olan Peyğəmbərimiz Məhəmməd (s.ə.s.) onlar üçün dua etmişdi. Beləliklə, Allah onların bütün günahlarını bağışladı. Nisa surəsinin 64-cü ayəsində Allah buyurur: “Ey Mənim sevimlim! Əgər özlərinə zülm edənlər sənin yanına gəlib sənin qarşında diz çöküb tövbə edib bağışlanma diləsəydilər, sən də onlar üçün bağışlanma diləsəydin, Allahın hər iki tövbəni (hər iki xahişi) qəbul etdiyini görərdin”. Bu, günahların yaxşı əməllərə çevrilməsidir. Bu, kimin vasitəsilə baş verir? Birincisi, bu, fərdin öz xahişi ilə baş verir, ikincisi, bu, Mürşidin xahişi ilə baş verir. Buna “himmət” (mənəvi dəstək/kömək) deyilir.
+
+Mənəvi rəhbərə sahib olmaq daha güclü nəticəyə gətirib çıxarır. Bu, həmişə Peyğəmbərimiz Məhəmməd (s.a.v.) və Allahın bütün övliyaları üçün doğru olub. Mövlana Cəlaləddin Rumi deyir: “Bu dərgah ümidsizlik dərgahı deyil. Tövbənizi min dəfə pozsanız belə, yenidən gəlin. Zərdüş də olsan, bütpərəst də olsan, atəşə tapan da olsan gəl. Kim olursan ol, gəl. Çünki bu dərgah ümidsizlər üçün dərgah deyil.” Əziz şagirdlər, Mövlana bununla nə demək istəyir? Mürşid dua etdikdə, Allahın köməyi gələcək; Allah həmin insanın bütün günahlarını yaxşı əməllərə çevirəcək. Mürşidə çatdıqda, bütün günahlarınız yaxşı əməllərə əvəz ediləcək. Burdan Mürşidin duasının nə qədər vacib olduğunu başa düşə bilərik.
+
+Əziz şagirdlər, sizcə bir insanın Allaha duası daha təsirlidir, yoxsa iki dua, bunlardan biri mənəvi rəhbərin şəfaətidir? Şəxsi xahişlər Allaha çatır; mənəvi rəhbərin həmin şəxslə bağlı xahişi də Ona çatır. Və onlar Allahın nəzərində birləşirlər. Buna görə də, mənəvi bələdçinin dəstəyi, sizin səyiniz və Allahın köməyi bir araya gəlir. Bütün yaxşı şeylər bu üçbucağın içindədir.
+
+ALLAHIN KÖMƏYİ
+RMUHANI BƏLƏDÇİNİN DƏSTƏYİ
+SİZİN SƏYİNİZ
+XOŞBƏXTLİK ÜÇBUCASI
+
+BUNU BİLİN:
+
+Əziz uşaqlar, unutmayın!
+Mənəvi bələdçi Allaha çatmaq istəyənlərin Ona çatması üçün dua edir.
+
+
 ## YEMƏK DUASI
 
 

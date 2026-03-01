@@ -244,7 +244,7 @@ Baba Ərən gülərək cavab verir:
 - Beləliklə, Allah ürəyində inancı olanlara lazım olan yardımı mütləq göstərir. 
 - Bu hekayədəki kəndlilər də əlbəttə inanc sahibidirlər, ama onlarda Allahın yağış yağdıracağına kifayət qədər inamları yoxdur diyə Allah dualarını qəbul etmir.
 
-## SUAL - CAVAB
+## SUAL - CAVAB (1)
 
 ![sualcavab1](/assets/pictures/sualcavab1.jpg)
 
@@ -287,4 +287,50 @@ Allaha necə dua etsəniz edin, Allah hamısını nəzərə alır. Amma insanın
 - Bəqərə 186-cı ayətdə Allah birinci hissəsində dünyavi dualarımızı ŞƏRTSİZ qəbul edəcəyinə söz verib.
 - İkinci hissəsində isə mənəvi dualarımızı ŞƏRTLİ qəbul edəcəyinə söz verib.
 - ŞƏRT: Amenu olmaq (Allaha qovuşmağı diləməkdir)
+
+- Elə isə edəcəyimiz ən önəmli dua Allaha qovuşmağı diləməkdir.
+- O zaman eyni nəğməni birlikdə deyək:
+“Hər şey çoxmu gözəldir,
+yoxsa mənəmi elə gəlir?”
+
+## SUAL - CAVAB (2)
+
+Allah bunu əmr edir,  
+O, Özünə çağırır,  
+Bizdə bunu etdikdə,  
+Dərhal onu qəbul edir.  
+
+- Cavab - "DUA"
+
+1. - Allah’a necə dua etməliyik?
+
+- Cavab - "Ya Rəbbim! Mən ruhumu bu dünya həyatını yaşayarkən Sənə qovuşdurmaq istəyirəm.
+Nə olar, mənim də ruhumu Özünə qovuşdur."
+
+2. - Ən önemli dua nedir?
+
+- Cavab - Allaha qovuşmağı diləməkdir.
+
+## ALLAHIN DOSTLUĞUNA QAÇAQ, XOŞBƏXT OLAQ
+
+"Allahın dostluğuna tələsin!  
+Allaha qovuşmağı diləyin,  
+səyahətə başlayaq.  
+Qoy Allah gəmini idarə etsin."  
+
+![gemi](/assets/pictures/gemi.png)
+
+Allaha qovuşmağı diləyən insan xoşbəxtlik qapısından içəri girmişdir. Cənnətin ilk sevincini qazanmışdır.  
+
+Beləliklə, xoşbəxtlik qapısını açmaq üçün hərəkətə keçin:  
+
+1. - Allaha qovuşmağı diləməliyik.
+2. - Ruhumuzun mütləq Allaha qovuşmasına inanmalıyıq.
+
+Bundan sonra ruh səyahətə başlayır.  
+
+Allahın dostu olmaq bizə dua qədər yaxındır.  
+Ona görə də Allahın dostluğuna tələsin!  
+Allaha qovuşmağa diləyin ki səyahət başlasın.  
+Qoyun Allah gəmini idarə etsin.  
 
