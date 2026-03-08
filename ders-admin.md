@@ -295,6 +295,8 @@ yoxsa mənəmi elə gəlir?”
 
 ## SUAL - CAVAB (2)
 
+![sualcavab2](/assets/pictures/sualcavab2.jpg)
+
 Allah bunu əmr edir,  
 O, Özünə çağırır,  
 Bizdə bunu etdikdə,  
@@ -332,11 +334,9 @@ Bundan sonra ruh səyahətə başlayır.
 Allahın dostu olmaq bizə dua qədər yaxındır.  
 Ona görə də Allahın dostluğuna tələsin!  
 Allaha qovuşmağa diləyin ki səyahət başlasın.  
-Qoyun Allah gəmini idarə etsin.  
+İcazə verin Allah gəmini idarə etsin.  
 
--------------------------------------------------------------------------
-
-## HİMMƏT (MƏNƏVİ MÜƏLLİMİMİN MƏNİM ÜÇÜN DUASI)
+## HİMMƏT - MÜRŞİDİN BİZİM ÜÇÜN DUASI
 
 ![himmet](/assets/pictures/himmet.jpg)
 
@@ -347,30 +347,79 @@ Dualarımızın qəbul olunmasını sürətləndirəcək sirr:
 
 ![duaetmek](/assets/pictures/duaetmek.jpg)  
 
-- HİMMƏT - Allahdan istədiyimiz köməyin mürşid vasitəsilə Allaha çatdığı və Allah tərəfindən qəbul edilməsidir.
-- Başqa sözlə, HİMMƏT - Allah tərəfindən qəbul edilmiş mürşidimizin duasıdir.
-- Mürşidin vəzifəsi insanları Allaha yaxınlaşdırmaqdır.
-- Allahın insanlara köməyi üçün Allahı dəvət etməkdir, dua etməkdir.
+- HİMMƏT - Allahdan istədiyimiz yardımın Mürşid vasitəsilə Allaha çatdığı və Allah tərəfindən qəbul edilməsidir.  
+- Başqa sözlə, HİMMƏT - Allah tərəfindən qəbul edilmiş mürşidimizin duasıdir.  
 
-"İki əlin səsi var, Bir əlin nəyi var?..." deyimi sizdə nəyi oyadır?
+### Mürşidin vəzifəsi: 
+  - İnsanları Allaha yaxınlaşdırmaqdır.  
+  - Allahın yardımı üçün Allahı dəvət etməkdir.  
 
-Əziz uşaqlar, hər kəs özü üçün Allaha dua edir və yalvarır. Məsələn, deyirlər: "Ey Rəbbim! Hamını xoşbəxt etmək istəyirəm. Xahiş edirəm, bu işdə mənə kömək et, Allahım." Hamınız bunu etməlisiniz. Həmişə birbaşa Allaha müraciət edərək Ondan kömək istəməlisiniz. Mənəvi bələdçinin dəstəyi əlavə və daha böyük bir kömək vasitəsidir. İnsan Mürşidinə çatdığı andan etibarən, Allahdan aldığı köməklə yanaşı, Mürşidin duaları vasitəsilə daha çox kömək alacaq. Atalarımız deyirlər: "İki əlin səsi var, Bir əlin nəyi var?..." İnsan Allaha dua edir və onun mənəvi bələdçisi onlar üçün dua edir və Allahın köməyi iki qat artır.
+"Bir əlin nəyi var? İki əlin səsi var..." sözü sizə nə deyir?  
 
-Əslində, bütün köməyi verən Allahdır. Mənəvi bələdçinin xahişi ikinci bir xahiş kimi əlavə olunur. Qurani-Kərimdə Allah bizə səhabələri nümunə olaraq göstərir. Onlar günahları üçün Allahdan bağışlanma diləmişdilər və kainatın ən böyük Mürşidi olan Peyğəmbərimiz Məhəmməd (s.ə.s.) onlar üçün dua etmişdi. Beləliklə, Allah onların bütün günahlarını bağışladı. Nisa surəsinin 64-cü ayəsində Allah buyurur: “Ey Mənim sevimlim! Əgər özlərinə zülm edənlər sənin yanına gəlib sənin qarşında diz çöküb tövbə edib bağışlanma diləsəydilər, sən də onlar üçün bağışlanma diləsəydin, Allahın hər iki tövbəni (hər iki xahişi) qəbul etdiyini görərdin”. Bu, günahların yaxşı əməllərə çevrilməsidir. Bu, kimin vasitəsilə baş verir? Birincisi, bu, fərdin öz xahişi ilə baş verir, ikincisi, bu, Mürşidin xahişi ilə baş verir. Buna “himmət” (mənəvi dəstək/kömək) deyilir.
+Hər kəs özü üçün Allaha dua edər yalvarır. Məsələn, deyərlər ki: "Ya Rəbbim! Hamını xoşbəxt etmək istəyirəm. Xahiş edirəm, mənə bu işdə kömək elə, Allahım."  
 
-Mənəvi rəhbərə sahib olmaq daha güclü nəticəyə gətirib çıxarır. Bu, həmişə Peyğəmbərimiz Məhəmməd (s.a.v.) və Allahın bütün övliyaları üçün doğru olub. Mövlana Cəlaləddin Rumi deyir: “Bu dərgah ümidsizlik dərgahı deyil. Tövbənizi min dəfə pozsanız belə, yenidən gəlin. Zərdüş də olsan, bütpərəst də olsan, atəşə tapan da olsan gəl. Kim olursan ol, gəl. Çünki bu dərgah ümidsizlər üçün dərgah deyil.” Əziz şagirdlər, Mövlana bununla nə demək istəyir? Mürşid dua etdikdə, Allahın köməyi gələcək; Allah həmin insanın bütün günahlarını yaxşı əməllərə çevirəcək. Mürşidə çatdıqda, bütün günahlarınız yaxşı əməllərə əvəz ediləcək. Burdan Mürşidin duasının nə qədər vacib olduğunu başa düşə bilərik.
+Həmişə Allaha müraciət edərək birbaşa Ondan kömək istəməlisiniz. Hamınız bunu mütləq etməlisiniz. İrşad məqamının, yanı mürşidin himməti isə buna əlavədir və daha böyük kömək vasitəsidir.  
 
-Əziz şagirdlər, sizcə bir insanın Allaha duası daha təsirlidir, yoxsa iki dua, bunlardan biri mənəvi rəhbərin şəfaətidir? Şəxsi xahişlər Allaha çatır; mənəvi rəhbərin həmin şəxslə bağlı xahişi də Ona çatır. Və onlar Allahın nəzərində birləşirlər. Buna görə də, mənəvi bələdçinin dəstəyi, sizin səyiniz və Allahın köməyi bir araya gəlir. Bütün yaxşı şeylər bu üçbucağın içindədir.
+İnsan Mürşidinə bağlandıqdan sora, Allahdan aldığı yardımdan əlavə, Mürşidin duasına görə daha çox yardım alacaq.  
 
-ALLAHIN KÖMƏYİ
-RMUHANI BƏLƏDÇİNİN DƏSTƏYİ
-SİZİN SƏYİNİZ
-XOŞBƏXTLİK ÜÇBUCASI
+Atalar sözü var: "Bir əlin nəyi var? İki əlin səsi var..." Həm insan Allaha dua edir, həm də Mürşidi onun üçün dua edir buna görə Allahın yardımı iki qat artır.
 
-BUNU BİLİN:
+Əslində, bütün yardımı edən Allahdır. Mürşidin duası ikinci bir dua kimi əlavə olunur.  
 
-Əziz uşaqlar, unutmayın!
-Mənəvi bələdçi Allaha çatmaq istəyənlərin Ona çatması üçün dua edir.
+Quranda Allah bizə səhabəni nümunə verir. Onlar günahları üçün Allahdan bağışlanma diləmişdilər və kainatın ən böyük Mürşidi olan Peyğəmbər Əfəndimiz (S.Ə.V) onlar üçün dua etmişdi. Və beləcə, Allah onların bütün günahlarını bağışlamışdı.  
+
+Nisa surəsinin 64-cü ayəsində Allah buyurur: “Həbibim! Nəfslərinə zülm edənlər sənə gəlib qarşında diz çöküb tövbə edərək bağışlanma diləsəydilər, və Sən də onlar üçün bağışlanma diləsəydin, Allahın hər iki tövbəni (hər iki duanı) qəbul etdiyini görərdin”.  
+
+- Bu, günahların savaba çevrilməsidir.  
+
+Kimin vasitəsilə baş verir?  
+
+- 1. İnsanın öz duasına görə.  
+- 2. Və üstə gəl Mürşidin duasına görə baş olur. Buna “himmət” (mənəvi yardım) deyilir.  
+
+İnsanın Mürşidi olarsa bu daha böyük nəticəyə gətirib çıxarır.  
+
+Bu, Peyğəmbər Əfəndimiz (S.Ə.V) və Allahın bütün övliyaları üçün belə olub.  
+
+Allahın övliyası və Mürşidi olan Mövlana Cəlaləddin Rumi deyir: “Bu dərgah ümidsizlər dərgahı deyil. Tövbənizi min dəfə pozsanız belə, yenə gəlin. Mecusi də olsan, bütpərəst də olsan, atəşpərəst da olsan gəl. Kim olursan ol, gəl. Çünki bu dərgah ümidsizlər dərgahı deyil.”  
+
+Mövlana bununla nə demək istəyir görəsən?  
+
+- Mevlana Allahın bir evliyasıdı və Mürşiddi. Bu Mürşid dua etdiyi zaman, Allahın yardımı gələcək. Allah o insanın bütün günahlarını savaba çevirəcək.  
+
+Mürşidə bağlandığınız zaman, bütün günahlarınız savabla əvəz ediləcək. Burdan Mürşidin duasının nə qədər önəmli olduğunu başa düşürük.  
+
+Sizcə tək insanın Allaha dua etməsi daha keçərlidir, yoxsa həm insanın həmdə onun Mürşidinin himməti, duası daha keçərlidi?  
+
+Şəxsi dua da Allaha çatır; Mürşidin duası da Allaha çatır. Və o iki dua Allahın qatında birləşir. Buna görə də, Mürşidin himməti, insanın qayreti və Allahın nüsrəti (yardımı) bir araya gəlir.  
+
+- Bütün gözəlliklər bu üçbucağın içindədir:  
+
+![mutluluk-ucgen](/assets/pictures/mutluluk-ucgen.png)  
+
+### XOŞBƏXTLİK ÜÇBUCAĞIDI  
+
+1. İNSANIN QAYRETİ (ŞƏXSİ DUA)  
+2. MÜRŞİDİN HİMMƏTİ (DUA)  
+3. ALLAHIN NÜSRƏTİ (YARDIMI)  
+
+### BUNU BİLİN:  
+
+![bunu-bil](/assets/pictures/bunu-bil.png)  
+
+Unutmayın!  
+Mürşid Allaha qovuşmağı diləyənlərin Allaha qovuşmaları üçün dua edər!  
+
+## SUAL - CAVAB (3)
+
+![sualcavab3](/assets/pictures/sualcavab3.jpg)
+
+- Ən önemli dua Allah’a ulaşmayı dileme duasıdır.
+- Kim Allah’a qovuşmağı diləyərsə ərmiş evliya olur.
+- Mürşidin vəzifəsi: insanları Allaha yaxınlaşdırmaqdır.
+- HİMMƏT - Allahdan istədiyimiz yardımın mürşid vasitəsilə Allaha çatdığı və Allah tərəfindən qəbul edilməsidir.
+- Allah’a qovuşmağı diləyən kişi, ruhunu Allah Özünə qovuşduracağına inanan insandır.
+
 
 
 ## YEMƏK DUASI
