@@ -2,6 +2,8 @@
 ---
 ---
 
+![duaetmeyiorgenirem](/assets/pictures/duaetmeyiorgenirem.jpg)
+
 # Ilk duamız
   
 - Allahım, mənidə başqalarına dost olan qullarından elə!  
@@ -17,6 +19,9 @@
 ## - Allah heçnəyə ehtiyacı olmayandır! 
 ## - Allah sonsuz sürrətin sahibidir!
 ## - Allah hər zaman var olandır! (Zaman olmayanda Allah var olandır.)
+
+![duaetmeyiorgenirem2](/assets/pictures/duaetmeyiorgenirem2.jpg)
+
 ## - Allah istədiyi hər şeyi "OL" əmriylə yoxdan yaradandır! 
 - Kainat 🌌
 - Zaman ⌛
@@ -37,6 +42,9 @@
 - Su 💧
 - Okeanlar
 - Od 🔥
+
+![duaetmeyiorgenirem3](/assets/pictures/duaetmeyiorgenirem3.jpg)
+
 ## - Allah yaratdıqları arasında ən çox İnsanı sevəndir!
 ## - Allah insanı və cinləri nəfs səbəbi ilə ən çox sevəndir!
 ## - İnsanları isə ruhundan üfürdüyü üçün cinlərdəndə çox sevəndir!
@@ -265,7 +273,9 @@ Baba Ərən gülərək cavab verir:
 Nə olar, mənim də ruhumu Özünə qovuşdur."
 
 ---
-  
+
+![smile](/assets/pictures/smile.png)
+
 - "BU" dunya həyatı - indi yaşadığımız dünya həyatı deməkdir
 - "O" dünya həyatı - axirət həyatı deməkdir
 ---
