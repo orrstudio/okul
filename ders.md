@@ -8,7 +8,7 @@
 
 ## Ilk duamız
   
-![duael](/assets/pictures/duael.png)
+![duael](/assets/pictures/duael.webp)
   
 - Allahım, mənidə başqalarına dost olan qullarından elə!  
   
@@ -431,5 +431,4 @@ Mürşid Allaha qovuşmağı diləyənlərin Allaha qovuşmaları üçün dua ed
 - Mürşidin vəzifəsi: insanları Allaha yaxınlaşdırmaqdır.
 - HİMMƏT - Allahdan istədiyimiz yardımın mürşid vasitəsilə Allaha çatdığı və Allah tərəfindən qəbul edilməsidir.
 - Allah’a qovuşmağı diləyən kişi, ruhunu Allah Özünə qovuşduracağına inanan insandır.
-
 
