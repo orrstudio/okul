@@ -45,8 +45,6 @@
 - Okeanlar
 - Od 🔥
 
-![duaetmeyiorgenirem3](/assets/pictures/duaetmeyiorgenirem3.jpg)
-
 ### - Allah yaratdıqları arasında ən çox İnsanı sevəndir!
 ### - Allah insanı və cinləri nəfs səbəbi ilə ən çox sevəndir!
 ### - İnsanları isə ruhundan üfürdüyü üçün cinlərdəndə çox sevəndir!
@@ -357,7 +355,7 @@ Dualarımızın qəbul olunmasını sürətləndirəcək sirr:
 
 - HİMMƏTDİR (mürşidimizin bizim üçün etdiyi dua)  
 
-![duaetmek](/assets/pictures/duaetmek.jpg)  
+![duaetmek2](/assets/pictures/duaetmek2.jpg)  
 
 - HİMMƏT - Allahdan istədiyimiz yardımın Mürşid vasitəsilə Allaha çatdığı və Allah tərəfindən qəbul edilməsidir.  
 - Başqa sözlə, HİMMƏT - Allah tərəfindən qəbul edilmiş mürşidimizin duasıdir.  

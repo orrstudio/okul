@@ -45,8 +45,6 @@
 - Okeanlar
 - Od 🔥
 
-![duaetmeyiorgenirem3](/assets/pictures/duaetmeyiorgenirem3.jpg)
-
 ### - Allah yaratdıqları arasında ən çox İnsanı sevəndir!
 ### - Allah insanı və cinləri nəfs səbəbi ilə ən çox sevəndir!
 ### - İnsanları isə ruhundan üfürdüyü üçün cinlərdəndə çox sevəndir!
@@ -357,7 +355,7 @@ Dualarımızın qəbul olunmasını sürətləndirəcək sirr:
 
 - HİMMƏTDİR (mürşidimizin bizim üçün etdiyi dua)  
 
-![duaetmek](/assets/pictures/duaetmek.jpg)  
+![duaetmek2](/assets/pictures/duaetmek2.jpg)  
 
 - HİMMƏT - Allahdan istədiyimiz yardımın Mürşid vasitəsilə Allaha çatdığı və Allah tərəfindən qəbul edilməsidir.  
 - Başqa sözlə, HİMMƏT - Allah tərəfindən qəbul edilmiş mürşidimizin duasıdir.  
@@ -431,4 +429,47 @@ Mürşid Allaha qovuşmağı diləyənlərin Allaha qovuşmaları üçün dua ed
 - Mürşidin vəzifəsi: insanları Allaha yaxınlaşdırmaqdır.
 - HİMMƏT - Allahdan istədiyimiz yardımın mürşid vasitəsilə Allaha çatdığı və Allah tərəfindən qəbul edilməsidir.
 - Allah’a qovuşmağı diləyən kişi, ruhunu Allah Özünə qovuşduracağına inanan insandır.
+
+-------------------------------------------
+
+### HEKAYƏ VAXTI
+
+![yunus](/assets/pictures/yunus.jpg)
+
+Yunus, Mürşidi Taptuk Emrenin dərgahından ayrıldıqdan sonra yolda iki dərvişə rast gəlir. Üçü birlikdə yola davam etməyi qərar verirlər.  
+Axşam bir mağaraya sığındıqları zaman dərvişlərdən biri Allaha hər zamankı duasını edir:  
+— Ya Rəbbim, bizə yemək göndər, nolar?  
+Allah dərvişin duasını qəbul edir və bir süfrə yemək göndərir. Dərvişlərin hamısı bu süfrədən yeyib doyurlar.  
+Sabahsı gün ikinci dərviş də dua edir. Allah onun da duasını qəbul edir və ona da bir süfrə yemək göndərir. Yenə üçüdə bu süfrədən yeyib qarınlarını doydururlar.  
+Üçüncü gecə sıra gəlir Yunusa. Yunus həyatında belə bir şey etməmişdi. O, əllərini açıb Rəbbinə dua edir:  
+— Ya Rəbbim! Bu mübarək dərvişlər Sənə necə dua etdilərsə, mən də elə dua edirəm. Bizə yemək göndər, nolar?  
+Allah bu dəfə üç süfrə göndərir. Üç süfrəni görən dərvişlər çox təəccüblənir və soruşurlar:  
+— Sən necə dua etdin ki, üç süfrə gəldi?  
+Yunus deyir:  
+— Mən sizin etdiyiniz duadan etdim. Əslində siz deyin görüm necə dua etdiniz ki, Allah o süfrələri göndərdi?  
+Onlar cavab verir ki:  
+— Bir Yunus var, dərviş Yunus. O, Allah qatında nə qədər dəyərli olduğunu bilmir. Biz də onun himmətini istəyərək Allaha dua edirik.
+
+## YEMƏK DUASI EDİRƏM
+
+![yemekduasi](/assets/pictures/yemekduasi.jpg)
+
+### Yeməyə Başlama Duası
+
+El Fâtiha maas salâvât.  
+Ey Uca Allahım, bizlərə enam buyurduğun bu tayyib nemətlərlə bizi bu gün də ruziləndirdiyin üçün və bu gün də qarnımızı bu tayyib nemətlərlə doydurmağı nəsib etdiyin üçün Sənə sonsuz həmd və şükür olsun. Niyyət edirik Sənin rizan üçün ehsan buyurduğun bu tayyib nemətlərlə bugünkü ruzimizi almağa.  
+Eûzubillâhimineşşeytanirracîm, bismillâhirrahmânirrâhim.  
+
+### Yeməyi Bitirmə Duası
+
+Eûzubillâhimineşşeytanirracîm, bismillâhirrahmânirrâhim.  
+Ey Uca Allahım, bizlərə enam buyurduğun bu tayyib nemətlərlə bu gün də qarnımızı doydurduğun üçün Sənə sonsuz həmd və şükür olsun.  
+Fərəh süfrələri olsun.  
+Bərəkət süfrələri olsun.  
+Allahın süfrələri olsun.  
+Allah hamımızdan razı olsun  
+El Fâtiha maas salâvât.  
+Nuş olsun.  
+
+
 
