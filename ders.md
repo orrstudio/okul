@@ -8,6 +8,8 @@
 
 ## Ilk duamız
   
+![duael](/assets/pictures/duael.png)
+  
 - Allahım, mənidə başqalarına dost olan qullarından elə!  
   
 
