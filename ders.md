@@ -471,5 +471,5 @@ Allah hamımızdan razı olsun
 El Fâtiha maas salâvât.  
 Nuş olsun.  
 
-
+![son1](/assets/pictures/son1.jpg)
 
