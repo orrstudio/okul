@@ -357,7 +357,7 @@ Dualarımızın qəbul olunmasını sürətləndirəcək sirr:
 
 - HİMMƏTDİR (mürşidimizin bizim üçün etdiyi dua)  
 
-![duaetmek2](/assets/pictures/duaetmek2.jpg)  
+![duaetmek2](/assets/pictures/duaetmek2.png)  
 
 - HİMMƏT - Allahdan istədiyimiz yardımın Mürşid vasitəsilə Allaha çatdığı və Allah tərəfindən qəbul edilməsidir.  
 - Başqa sözlə, HİMMƏT - Allah tərəfindən qəbul edilmiş mürşidimizin duasıdir.  
@@ -431,4 +431,5 @@ Mürşid Allaha qovuşmağı diləyənlərin Allaha qovuşmaları üçün dua ed
 - Mürşidin vəzifəsi: insanları Allaha yaxınlaşdırmaqdır.
 - HİMMƏT - Allahdan istədiyimiz yardımın mürşid vasitəsilə Allaha çatdığı və Allah tərəfindən qəbul edilməsidir.
 - Allah’a qovuşmağı diləyən kişi, ruhunu Allah Özünə qovuşduracağına inanan insandır.
+
 
