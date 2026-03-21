@@ -387,7 +387,7 @@ Nisa surəsinin 64-cü ayəsində Allah buyurur: “Həbibim! Nəfslərinə zül
 Kimin vasitəsilə baş verir?  
 
 - 1. İnsanın öz duasına görə.  
-- 2. Və üstə gəl Mürşidin duasına görə baş olur. Buna “himmət” (mənəvi yardım) deyilir.  
+- 2. Və üstə gəl Mürşidin duasına görə baş verir. Buna “himmət” (mənəvi yardım) deyilir.  
 
 İnsanın Mürşidi olarsa bu daha böyük nəticəyə gətirib çıxarır.  
 
