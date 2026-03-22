@@ -432,8 +432,6 @@ Mürşid Allaha qovuşmağı diləyənlərin Allaha qovuşmaları üçün dua ed
 - HİMMƏT - Allahdan istədiyimiz yardımın mürşid vasitəsilə Allaha çatdığı və Allah tərəfindən qəbul edilməsidir.
 - Allah’a qovuşmağı diləyən kişi, ruhunu Allah Özünə qovuşduracağına inanan insandır.
 
--------------------------------------------
-
 ### HEKAYƏ VAXTI
 
 ![yunus](/assets/pictures/yunus.jpg)
@@ -452,26 +450,31 @@ Yunus deyir:
 Onlar cavab verir ki:  
 — Bir Yunus var, dərviş Yunus. O, Allah qatında nə qədər dəyərli olduğunu bilmir. Biz də onun himmətini istəyərək Allaha dua edirik.
 
-## YEMƏK DUASI EDİRƏM
+## YEMƏK DUASI EDİRƏM (YEMEK DUASI YAPIYORUM)
 
 ![yemekduasi](/assets/pictures/yemekduasi.jpg)
 
-### Yeməyə Başlama Duası
+### Yeməyə Başlama Duası (Yemek Başlangıç Duası)
 
-El Fâtiha maas salâvât.  
-Ey Uca Allahım, bizlərə enam buyurduğun bu tayyib nemətlərlə bizi bu gün də ruziləndirdiyin üçün və bu gün də qarnımızı bu tayyib nemətlərlə doydurmağı nəsib etdiyin üçün Sənə sonsuz həmd və şükür olsun. Niyyət edirik Sənin rizan üçün ehsan buyurduğun bu tayyib nemətlərlə bugünkü ruzimizi almağa.  
-Eûzubillâhimineşşeytanirracîm, bismillâhirrahmânirrâhim.  
+- El Fâtiha maas salâvât.  
+- Ey Uca Allahım, bizlərə enam buyurduğun bu tayyib nemətlərlə bizi bu gün də ruziləndirdiyin üçün və bu gün də qarnımızı bu tayyib nemətlərlə doydurmağı nəsib etdiyin üçün Sənə sonsuz həmd və şükür olsun. 
+- Niyyət edirik Sənin rizan üçün ehsan buyurduğun bu tayyib nemətlərlə bugünkü ruzimizi almağa.  
+- Eûzubillâhimineşşeytanirracîm, bismillâhirrahmânirrâhim.  
 
-### Yeməyi Bitirmə Duası
+(El Fâtiha maas salâvât. Ey Yüce Allah’ım, bizlere en’âm buyurduğun bu tayyip ni’metlerle bizleri bugün de rızıklandırdığın için ve bugün de karnımızı bu tayyip ni’metlerle doyurmayı nasip kıldığın için Sana sonsuz hamd ve şükrolsun. Niyet ettik Senin rızan için ihsan buyurduğun bu tayyip ni’metlerle bugünkü rızkımızı almaya. Eûzubillâhimineşşeytanirracîm, bismillâhirrahmânirrâhim.)
 
-Eûzubillâhimineşşeytanirracîm, bismillâhirrahmânirrâhim.  
-Ey Uca Allahım, bizlərə enam buyurduğun bu tayyib nemətlərlə bu gün də qarnımızı doydurduğun üçün Sənə sonsuz həmd və şükür olsun.  
-Fərəh süfrələri olsun.  
-Bərəkət süfrələri olsun.  
-Allahın süfrələri olsun.  
-Allah hamımızdan razı olsun  
-El Fâtiha maas salâvât.  
-Nuş olsun.  
+### Yeməyi Bitirmə Duası (Yemek Kapanış Duası)
+
+- Eûzubillâhimineşşeytanirracîm, bismillâhirrahmânirrâhim.  
+- Ey Uca Allahım, bizlərə enam buyurduğun bu tayyib nemətlərlə bu gün də qarnımızı doydurduğun üçün Sənə sonsuz həmd və şükür olsun.  
+- Fərəh süfrələri olsun.  
+- Bərəkət süfrələri olsun.  
+- Allahın süfrələri olsun.  
+- Allah hamımızdan razı olsun  
+- El Fâtiha maas salâvât.  
+- Nuş olsun.  
+
+(Eûzubillâhiminneşşeytânirracîm, bismillâhirrâhmanirrahîm. Ey Yüce Allah’ım! Bizlere en’âm buyurduğun bu tayyip ni’metlerle bugün de karnımızı doyurmayı nasip kıldığın için ve bugün de bizleri rızıklandırdığın için Sana sonsuz hamd ve şükrolsun. Ferah sofraları olsun, bereket sofraları olsun. Allah’ın sofraları olsun. Allah hepinizden razı olsun. El Fâtiha meas sâlâvat. Afiyet olsun.)
 
 ![son1](/assets/pictures/son1.jpg)
 
