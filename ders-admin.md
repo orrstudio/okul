@@ -2,9 +2,9 @@
 ---
 ---
 
-![duaetmeyiorgenirem](/assets/pictures/duaetmeyiorgenirem.jpg)
+# DUA ETMƏYİ ÖRGƏNİRƏM 1
 
-# DUA ETMƏYİ ÖRGƏNİRƏM
+![duaetmeyiorgenirem](/assets/pictures/duaetmeyiorgenirem.jpg)
 
 ## Ilk duamız
   
@@ -477,4 +477,50 @@ Onlar cavab verir ki:
 (Eûzubillâhiminneşşeytânirracîm, bismillâhirrâhmanirrahîm. Ey Yüce Allah’ım! Bizlere en’âm buyurduğun bu tayyip ni’metlerle bugün de karnımızı doyurmayı nasip kıldığın için ve bugün de bizleri rızıklandırdığın için Sana sonsuz hamd ve şükrolsun. Ferah sofraları olsun, bereket sofraları olsun. Allah’ın sofraları olsun. Allah hepinizden razı olsun. El Fâtiha meas sâlâvat. Afiyet olsun.)
 
 ![son1](/assets/pictures/son1.jpg)
+
+# DUA ETMƏYİ ÖRGƏNİRƏM 2
+
+![duaetmeyiorgenirem-2](/assets/pictures/duaetmeyiorgenirem-2.jpg)
+
+## DUASI QƏBUL EDİLƏNLƏR VƏ QƏBUL EDİLMƏYƏNLƏR
+
+Əziz şagirdlər, yalnız iki cür insan var: duası qəbul edilənlər və duası qəbul edilməyənlər.  
+
+![duasiqebuledilenler](/assets/pictures/duasiqebuledilenler.jpg)
+
+Bəs necə dua etmək lazımdır ki, Allah dualarımızı qəbul etsin?  
+
+- Layiq olduğumuz mövzularda dua etsək, Allah duamızı qəbul edər.  
+- Layiq olmadığımız halda isə, Allah bizi əvvəla laiq olmaqımız üçün köməyini göndərər. Sonra isə köməyi ilə bizi o səviyyəyə çatdırdıqdan sonra duamızı qəbul edər.  
+
+Məsələn, siz orta məktəb şagirdisiniz və dərhal həkim olmaq üçün Allaha dua edirsiniz.  
+Əvvəla siz dərs oxuyarsınız, uğur qazanmaq üçün çalışarsınız, və bunlar üçün Allah sizə köməyini göndərər.  
+Siz Allahın yardımı ilə sinifləri bir-bir uğurla keçərsiniz və beləliklə laiq olarsınız.  
+Sonda isə, vaxtı gəldikdə Allahın yardımı ilə həkim olarsınız.  
+
+Allah Bəqərə surəsinin 186-cı ayəsində belə buyurur:  
+“Bizə dua edildiyi zaman dua edənin duasını qəbul edərik. Ancaq o da Bizim dəvətimizi qəbul edib iman gətirərsə, yəni Allaha qovuşmağı diləyərsə.”
+
+Dünyaya aid dualarda isə insan Allaha qovuşmağı diləsə də, diləməsə də, Allah onun duasını mütləq qəbul edər.  
+Amma mənəvi sahədə olan duaların Allah tərəfindən qəbul edilməsi insanın Allaha qovuşmağı diləməsindən asılıdır.  
+
+Əgər insan Allaha qovuşmağı diləməzsə, onun Mənəvi duaları (Allahın cənnətinə getməsi, dünya səadətinə çatması, günahlarının bağışlanması və savaba çevrilməsi) qəbul edilməz.  
+
+İnsanın mənəvi dualarının qəbul olunması üçün mütləq şəkildə Allaha qovuşmağı diləməsi lazımdır.  
+
+TAPŞIRIQ
+
+![tapsiriq-1](/assets/pictures/tapsiriq-1.jpg)
+
+Gerçəkləşməsini istədiyin arzuları Allaha necə dua edərdiz?  
+
+## HƏR VƏZİYYƏTDƏ DUA EDƏ BİLMƏK (BOLLUQDA DA, DARLIQDA DA DUA ETMƏK)
+## ALLAHA HƏR ŞEYİ DEYƏ BİLƏRİKMİ?
+## BƏDDUA ETMƏYİN!
+## QEYBƏT ALLAHIN QADAĞAN ETDİYİ BİR ŞEYDİR
+## HÜSNÜZƏN — İNSANLAR HAQQINDA YAXŞI DÜŞÜNMƏKDİR
+## BAŞQALARI ÜÇÜN DUA ETMƏK
+## VƏFAT EDƏN ÖVLİYADAN DUA İSTƏMƏK
+
+
 
