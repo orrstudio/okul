@@ -510,7 +510,7 @@ Amma mənəvi sahədə olan duaların Allah tərəfindən qəbul edilməsi insan
 
 TAPŞIRIQ
 
-![tapsiriq-1](/assets/pictures/tapsiriq-1.jpg)
+![tapsiriq-1](/assets/pictures/tapsiriq-1.png)
 
 Gerçəkləşməsini istədiyin arzuları Allaha necə dua edərdiz?  
 
