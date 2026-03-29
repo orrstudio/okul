@@ -448,7 +448,7 @@ Allah bu dəfə üç süfrə göndərir. Üç süfrəni görən dərvişlər ço
 Yunus deyir:  
 — Mən sizin etdiyiniz duadan etdim. Əslində siz deyin görüm necə dua etdiniz ki, Allah o süfrələri göndərdi?  
 Onlar cavab verir ki:  
-— Bir Yunus var, dərviş Yunus. O, Allah qatında nə qədər dəyərli olduğunu bilmir. Biz də onun himmətini istəyərək Allaha dua edirik.
+— Bir Yunus var, dərviş Yunus. O, Allah qatında nə qədər dəyərli olduğunu bilmir. Biz onun himmətini istəyərək Allaha dua edirik.
 
 ## YEMƏK DUASI EDİRƏM (YEMEK DUASI YAPIYORUM)
 
@@ -457,7 +457,7 @@ Onlar cavab verir ki:
 ### Yeməyə Başlama Duası (Yemek Başlangıç Duası)
 
 - El Fâtiha maas salâvât.  
-- Ey Uca Allahım, bizlərə enam buyurduğun bu tayyib nemətlərlə bizi bu gün də ruziləndirdiyin üçün və bu gün də qarnımızı bu tayyib nemətlərlə doydurmağı nəsib etdiyin üçün Sənə sonsuz həmd və şükür olsun. 
+- Ey Uca Allahım, bizlərə ənam buyurduğun bu tayyib nemətlərlə bizi bu gün də ruziləndirdiyin üçün və bu gün də qarnımızı bu tayyib nemətlərlə doydurmağı nəsib etdiyin üçün Sənə sonsuz həmd və şükür olsun.  
 - Niyyət edirik Sənin rizan üçün ehsan buyurduğun bu tayyib nemətlərlə bugünkü ruzimizi almağa.  
 - Eûzubillâhimineşşeytanirracîm, bismillâhirrahmânirrâhim.  
 
@@ -466,7 +466,7 @@ Onlar cavab verir ki:
 ### Yeməyi Bitirmə Duası (Yemek Kapanış Duası)
 
 - Eûzubillâhimineşşeytanirracîm, bismillâhirrahmânirrâhim.  
-- Ey Uca Allahım, bizlərə enam buyurduğun bu tayyib nemətlərlə bu gün də qarnımızı doydurduğun üçün Sənə sonsuz həmd və şükür olsun.  
+- Ey Uca Allahım, bizlərə ənam buyurduğun bu tayyib nemətlərlə bu gün də qarnımızı doydurduğun üçün Sənə sonsuz həmd və şükür olsun.  
 - Fərəh süfrələri olsun.  
 - Bərəkət süfrələri olsun.  
 - Allahın süfrələri olsun.  
@@ -477,4 +477,43 @@ Onlar cavab verir ki:
 (Eûzubillâhiminneşşeytânirracîm, bismillâhirrâhmanirrahîm. Ey Yüce Allah’ım! Bizlere en’âm buyurduğun bu tayyip ni’metlerle bugün de karnımızı doyurmayı nasip kıldığın için ve bugün de bizleri rızıklandırdığın için Sana sonsuz hamd ve şükrolsun. Ferah sofraları olsun, bereket sofraları olsun. Allah’ın sofraları olsun. Allah hepinizden razı olsun. El Fâtiha meas sâlâvat. Afiyet olsun.)
 
 ![son1](/assets/pictures/son1.jpg)
+
+
+# DUA ETMƏYİ ÖRGƏNİRƏM 2
+
+![duaetmeyiorgenirem-2](/assets/pictures/duaetmeyiorgenirem-2.jpg)
+
+## DUASI QƏBUL EDİLƏNLƏR VƏ DUASI QƏBUL EDİLMƏYƏNLƏR
+
+Əziz şagirdlər, yalnız iki cür insan var: duası qəbul edilənlər və duası qəbul edilməyənlər.  
+
+![duasiqebuledilenler](/assets/pictures/duasiqebuledilenler.jpg)
+
+Bəs necə dua etmək lazımdır ki, Allah dualarımızı qəbul etsin?  
+
+- Layiq olduğumuz mövzularda dua etsək, Allah duamızı qəbul edər.  
+- Layiq olmadığımız halda isə, Allah bizə əvvəla laiq olmaqımız üçün yardım göndərər. Sonra isə yardımı ilə bizi o səviyyəyə çatdırdıqdan sonra duamızı qəbul edər.  
+
+Məsələn, siz orta məktəb şagirdisiniz və dərhal həkim olmaq üçün Allaha dua edirsiniz.  
+Əvvəla siz dərs oxuyarsınız, uğur qazanmaq üçün çalışarsınız, və bunlar üçün Allah sizə köməyini göndərər.  
+Siz Allahın yardımı ilə sinifləri bir-bir uğurla keçərsiniz və beləliklə laiq olarsınız.  
+Sonda isə, vaxtı gəldikdə Allahın yardımı ilə həkim olarsınız.  
+
+Allah Bəqərə surəsinin 186-cı ayəsində belə buyurur:  
+“Bizə dua edildiyi zaman dua edənin duasını qəbul edərik. Ancaq o da Bizim dəvətimizi qəbul edərsə və Allaha qovuşmağı diləyərsə.”  
+
+Dünyaya aid dualarda isə insan Allaha qovuşmağı diləsə də, diləməsə də, Allah onun duasını mütləq qəbul edər.  
+Amma mənəvi sahədə olan duaların Allah tərəfindən qəbul edilməsi insanın Allaha qovuşmağı diləməsindən asılıdır.  
+
+Əgər insan Allaha qovuşmağı diləməzsə, onun Mənəvi duaları (Allahın cənnətinə getməsi, dünya səadətinə çatması, günahlarının bağışlanması və savaba çevrilməsi) qəbul edilməz.  
+
+İnsanın mənəvi dualarının qəbul olunması üçün mütləq Allaha qovuşmağı diləməsi lazımdır.  
+
+TAPŞIRIQ
+
+![tapsiriq-1](/assets/pictures/tapsiriq-1.png)
+
+Gerçəkləşməsini istədiyiniz arzuları Allaha necə dua edərdiz?  
+
+Misal: Allahım mənə ... ver. Və məni buna laiq qıl.  
 
